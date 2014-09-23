@@ -26,6 +26,7 @@ describe 'CountyResultsComputer' (_) ->
     expect counties.0.obvody .to.have.length 7
     expect counties.0.obvody.0 .to.have.property \strany
     expect counties.0.obvody.0.strany .to.have.length 17
+    expect counties.0.obvody.0.strany.0 .to.have.property \id 7
     expect counties.0.obvody.0.strany.0 .to.have.property \zastupitelu 2
 
     expect counties.1.obvody .to.have.length 1

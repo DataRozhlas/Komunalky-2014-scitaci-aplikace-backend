@@ -16,7 +16,7 @@
         "okrsky_spocteny": 162,
         "strany": [
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 86448,
             "zastupitele": [
               {
@@ -33,12 +33,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Volte Pravý Blok www.cibulka.net",
+            "id": 98,
             "hlasu": 2952,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 188835,
             "zastupitele": [
               {
@@ -70,17 +70,17 @@
             "zastupitelu": 5
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 35706,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 3929,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 108441,
             "zastupitele": [
               {
@@ -97,57 +97,57 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 25632,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených a Evropští demokraté",
+            "id": 285,
             "hlasu": 33867,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana svobodných občanů",
+            "id": 714,
             "hlasu": 4296,
             "zastupitelu": 0
           },
           {
-            "nazev": "Dělnická strana sociální spravedlnosti",
+            "id": 156,
             "hlasu": 1059,
             "zastupitelu": 0
           },
           {
-            "nazev": "ČESKÝ POLITICKÝ STŘED",
+            "id": 717,
             "hlasu": 78,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 13323,
             "zastupitelu": 0
           },
           {
-            "nazev": "\"Strana soukromníků České republiky\"",
+            "id": 716,
             "hlasu": 845,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana národně socialistická",
+            "id": 175,
             "hlasu": 579,
             "zastupitelu": 0
           },
           {
-            "nazev": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
+            "id": 137,
             "hlasu": 8409,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká pirátská strana",
+            "id": 720,
             "hlasu": 4102,
             "zastupitelu": 0
           },
           {
-            "nazev": "Pražané za svá práva",
+            "id": 744,
             "hlasu": 2150,
             "zastupitelu": 0
           }
@@ -161,62 +161,62 @@
         "okrsky_spocteny": 158,
         "strany": [
           {
-            "nazev": "Pražané za svá práva",
+            "id": 744,
             "hlasu": 1449,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana národně socialistická",
+            "id": 175,
             "hlasu": 1035,
             "zastupitelu": 0
           },
           {
-            "nazev": "NEZÁVISLÍ",
+            "id": 88,
             "hlasu": 2986,
             "zastupitelu": 0
           },
           {
-            "nazev": "\"Nezávislí občané Prahy\"",
+            "id": 749,
             "hlasu": 6002,
             "zastupitelu": 0
           },
           {
-            "nazev": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
+            "id": 137,
             "hlasu": 7744,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 3153,
             "zastupitelu": 0
           },
           {
-            "nazev": "\"Strana soukromníků České republiky\"",
+            "id": 716,
             "hlasu": 668,
             "zastupitelu": 0
           },
           {
-            "nazev": "Dělnická strana sociální spravedlnosti",
+            "id": 156,
             "hlasu": 1365,
             "zastupitelu": 0
           },
           {
-            "nazev": "ČESKÝ POLITICKÝ STŘED",
+            "id": 717,
             "hlasu": 55,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 8836,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 24870,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 107260,
             "zastupitele": [
               {
@@ -238,7 +238,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 147063,
             "zastupitele": [
               {
@@ -265,12 +265,12 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Strana zelených a Evropští demokraté",
+            "id": 285,
             "hlasu": 26552,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 72569,
             "zastupitele": [
               {
@@ -287,22 +287,22 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Česká pirátská strana",
+            "id": 720,
             "hlasu": 4359,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 33607,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana svobodných občanů",
+            "id": 714,
             "hlasu": 6338,
             "zastupitelu": 0
           },
           {
-            "nazev": "Volte Pravý Blok www.cibulka.net",
+            "id": 98,
             "hlasu": 1274,
             "zastupitelu": 0
           }
@@ -316,17 +316,17 @@
         "okrsky_spocteny": 181,
         "strany": [
           {
-            "nazev": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
+            "id": 137,
             "hlasu": 12451,
             "zastupitelu": 0
           },
           {
-            "nazev": "\"Strana soukromníků České republiky\"",
+            "id": 716,
             "hlasu": 865,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 40955,
             "zastupitele": [
               {
@@ -338,12 +338,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 36255,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 103211,
             "zastupitele": [
               {
@@ -360,32 +360,32 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Volte Pravý Blok www.cibulka.net",
+            "id": 98,
             "hlasu": 2481,
             "zastupitelu": 0
           },
           {
-            "nazev": "ČESKÝ POLITICKÝ STŘED",
+            "id": 717,
             "hlasu": 126,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana svobodných občanů",
+            "id": 714,
             "hlasu": 5039,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká pirátská strana",
+            "id": 720,
             "hlasu": 4978,
             "zastupitelu": 0
           },
           {
-            "nazev": "Pražané za svá práva",
+            "id": 744,
             "hlasu": 1552,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 150179,
             "zastupitele": [
               {
@@ -407,27 +407,27 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Česká strana národně socialistická",
+            "id": 175,
             "hlasu": 747,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana podnikatelů a živnostníků",
+            "id": 705,
             "hlasu": 194,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 10517,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 3857,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 124834,
             "zastupitele": [
               {
@@ -449,12 +449,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Dělnická strana sociální spravedlnosti",
+            "id": 156,
             "hlasu": 1640,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených a Evropští demokraté",
+            "id": 285,
             "hlasu": 32782,
             "zastupitelu": 0
           }
@@ -468,7 +468,7 @@
         "okrsky_spocteny": 168,
         "strany": [
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 98184,
             "zastupitele": [
               {
@@ -485,57 +485,57 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Volte Pravý Blok www.cibulka.net",
+            "id": 98,
             "hlasu": 3510,
             "zastupitelu": 0
           },
           {
-            "nazev": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
+            "id": 137,
             "hlasu": 13228,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana národně socialistická",
+            "id": 175,
             "hlasu": 1010,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká pirátská strana",
+            "id": 720,
             "hlasu": 5131,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana svobodných občanů",
+            "id": 714,
             "hlasu": 5568,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 25288,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 3399,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených a Evropští demokraté",
+            "id": 285,
             "hlasu": 31235,
             "zastupitelu": 0
           },
           {
-            "nazev": "Pražané za svá práva",
+            "id": 744,
             "hlasu": 3234,
             "zastupitelu": 0
           },
           {
-            "nazev": "Dělnická strana sociální spravedlnosti",
+            "id": 156,
             "hlasu": 1643,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 36694,
             "zastupitele": [
               {
@@ -547,7 +547,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 136452,
             "zastupitele": [
               {
@@ -569,17 +569,17 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "NEZÁVISLÍ",
+            "id": 88,
             "hlasu": 2763,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 8956,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 116069,
             "zastupitele": [
               {
@@ -601,7 +601,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "\"Strana soukromníků České republiky\"",
+            "id": 716,
             "hlasu": 439,
             "zastupitelu": 0
           }
@@ -615,17 +615,17 @@
         "okrsky_spocteny": 175,
         "strany": [
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 8494,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených a Evropští demokraté",
+            "id": 285,
             "hlasu": 35228,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 88136,
             "zastupitele": [
               {
@@ -642,37 +642,37 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "ČESKÝ POLITICKÝ STŘED",
+            "id": 717,
             "hlasu": 47,
             "zastupitelu": 0
           },
           {
-            "nazev": "\"Strana soukromníků České republiky\"",
+            "id": 716,
             "hlasu": 758,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 29816,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká pirátská strana",
+            "id": 720,
             "hlasu": 4158,
             "zastupitelu": 0
           },
           {
-            "nazev": "NEZÁVISLÍ",
+            "id": 88,
             "hlasu": 3492,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 3386,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 117338,
             "zastupitele": [
               {
@@ -694,47 +694,47 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "id": 55,
             "hlasu": 1638,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana podnikatelů a živnostníků",
+            "id": 705,
             "hlasu": 70,
             "zastupitelu": 0
           },
           {
-            "nazev": "Volte Pravý Blok www.cibulka.net",
+            "id": 98,
             "hlasu": 3717,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana národně socialistická",
+            "id": 175,
             "hlasu": 758,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana svobodných občanů",
+            "id": 714,
             "hlasu": 4578,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 23702,
             "zastupitelu": 0
           },
           {
-            "nazev": "Dělnická strana sociální spravedlnosti",
+            "id": 156,
             "hlasu": 1566,
             "zastupitelu": 0
           },
           {
-            "nazev": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
+            "id": 137,
             "hlasu": 9874,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 145062,
             "zastupitele": [
               {
@@ -761,7 +761,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Pražané za svá práva",
+            "id": 744,
             "hlasu": 4585,
             "zastupitelu": 0
           }
@@ -775,12 +775,12 @@
         "okrsky_spocteny": 155,
         "strany": [
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 22822,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 106291,
             "zastupitele": [
               {
@@ -802,7 +802,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 85438,
             "zastupitele": [
               {
@@ -819,57 +819,57 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Česká strana národně socialistická",
+            "id": 175,
             "hlasu": 1417,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených a Evropští demokraté",
+            "id": 285,
             "hlasu": 26185,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 3438,
             "zastupitelu": 0
           },
           {
-            "nazev": "Pražané za svá práva",
+            "id": 744,
             "hlasu": 1870,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana svobodných občanů",
+            "id": 714,
             "hlasu": 3323,
             "zastupitelu": 0
           },
           {
-            "nazev": "Volte Pravý Blok www.cibulka.net",
+            "id": 98,
             "hlasu": 1389,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 9653,
             "zastupitelu": 0
           },
           {
-            "nazev": "\"Strana soukromníků České republiky\"",
+            "id": 716,
             "hlasu": 754,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana podnikatelů a živnostníků",
+            "id": 705,
             "hlasu": 81,
             "zastupitelu": 0
           },
           {
-            "nazev": "Dělnická strana sociální spravedlnosti",
+            "id": 156,
             "hlasu": 1866,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 134152,
             "zastupitele": [
               {
@@ -891,22 +891,22 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "ČESKÝ POLITICKÝ STŘED",
+            "id": 717,
             "hlasu": 39,
             "zastupitelu": 0
           },
           {
-            "nazev": "České hnutí za národní jednotu",
+            "id": 123,
             "hlasu": 100,
             "zastupitelu": 0
           },
           {
-            "nazev": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
+            "id": 137,
             "hlasu": 18146,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 33949,
             "zastupitele": [
               {
@@ -918,7 +918,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Česká pirátská strana",
+            "id": 720,
             "hlasu": 4535,
             "zastupitelu": 0
           }
@@ -932,67 +932,67 @@
         "okrsky_spocteny": 131,
         "strany": [
           {
-            "nazev": "\"Strana soukromníků České republiky\"",
+            "id": 716,
             "hlasu": 1073,
             "zastupitelu": 0
           },
           {
-            "nazev": "Volte Pravý Blok www.cibulka.net",
+            "id": 98,
             "hlasu": 723,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 5348,
             "zastupitelu": 0
           },
           {
-            "nazev": "NEZÁVISLÍ",
+            "id": 88,
             "hlasu": 8365,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 6141,
             "zastupitelu": 0
           },
           {
-            "nazev": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
+            "id": 137,
             "hlasu": 14430,
             "zastupitelu": 0
           },
           {
-            "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "id": 55,
             "hlasu": 1620,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 27852,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká pirátská strana",
+            "id": 720,
             "hlasu": 5638,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana národně socialistická",
+            "id": 175,
             "hlasu": 834,
             "zastupitelu": 0
           },
           {
-            "nazev": "Hnutí pro Prahu 11",
+            "id": 195,
             "hlasu": 24188,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana svobodných občanů",
+            "id": 714,
             "hlasu": 4624,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 81223,
             "zastupitele": [
               {
@@ -1009,12 +1009,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "ČESKÝ POLITICKÝ STŘED",
+            "id": 717,
             "hlasu": 50,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 115985,
             "zastupitele": [
               {
@@ -1036,27 +1036,27 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Dělnická strana sociální spravedlnosti",
+            "id": 156,
             "hlasu": 1779,
             "zastupitelu": 0
           },
           {
-            "nazev": "Pražané za svá práva",
+            "id": 744,
             "hlasu": 10062,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 33014,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených a Evropští demokraté",
+            "id": 285,
             "hlasu": 17514,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 141265,
             "zastupitele": [
               {
@@ -1103,7 +1103,7 @@
         "okrsky_spocteny": 28,
         "strany": [
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 42202,
             "zastupitele": [
               {
@@ -1135,22 +1135,22 @@
             "zastupitelu": 5
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 5691,
             "zastupitelu": 0
           },
           {
-            "nazev": "\"Zelená Praha Rezidenti\" Strana Práv Občanů ZEMANOVCI (SPOZ) - Demokratická strana zelených (DSZ)",
+            "id": 671,
             "hlasu": 2596,
             "zastupitelu": 0
           },
           {
-            "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "id": 55,
             "hlasu": 404,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 76785,
             "zastupitele": [
               {
@@ -1202,7 +1202,7 @@
             "zastupitelu": 9
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 49319,
             "zastupitele": [
               {
@@ -1239,12 +1239,12 @@
             "zastupitelu": 5
           },
           {
-            "nazev": "PRAŽANÉ PRO PRAHU ( P P P )",
+            "id": 692,
             "hlasu": 11168,
             "zastupitelu": 1
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 22347,
             "zastupitele": [
               {
@@ -1261,17 +1261,17 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Suverénní volba pro Prahu 1 - za slušnost a poctivost v politice",
+            "id": 691,
             "hlasu": 6795,
             "zastupitelu": 0
           },
           {
-            "nazev": "Změna pro Prahu 1",
+            "id": 355,
             "hlasu": 16536,
             "zastupitelu": 1
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 106430,
             "zastupitele": [
               {
@@ -1343,7 +1343,7 @@
             "zastupitelu": 12
           },
           {
-            "nazev": "Iniciativa občanů",
+            "id": 86,
             "hlasu": 7315,
             "zastupitelu": 0
           }
@@ -1368,7 +1368,7 @@
         "okrsky_spocteny": 27,
         "strany": [
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 19391,
             "zastupitele": [
               {
@@ -1390,7 +1390,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 5281,
             "zastupitele": [
               {
@@ -1402,12 +1402,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "SUVERENITA - blok Jany Bobošíkové",
+            "id": 137,
             "hlasu": 2155,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 14935,
             "zastupitele": [
               {
@@ -1424,22 +1424,22 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 191,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 2503,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 1612,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 21104,
             "zastupitele": [
               {
@@ -1461,17 +1461,17 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 4621,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana podnikatelů a živnostníků",
+            "id": 705,
             "hlasu": 29,
             "zastupitelu": 0
           },
           {
-            "nazev": "Desítka pro domácí",
+            "id": 750,
             "hlasu": 4715,
             "zastupitelu": 0
           }
@@ -1485,7 +1485,7 @@
         "okrsky_spocteny": 26,
         "strany": [
           {
-            "nazev": "Desítka pro domácí",
+            "id": 750,
             "hlasu": 6778,
             "zastupitele": [
               {
@@ -1497,7 +1497,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 19832,
             "zastupitele": [
               {
@@ -1519,7 +1519,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 16173,
             "zastupitele": [
               {
@@ -1536,12 +1536,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "SUVERENITA - blok Jany Bobošíkové",
+            "id": 137,
             "hlasu": 2512,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 22758,
             "zastupitele": [
               {
@@ -1563,27 +1563,27 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 5495,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 2557,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 1839,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 183,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 5303,
             "zastupitelu": 0
           }
@@ -1597,7 +1597,7 @@
         "okrsky_spocteny": 28,
         "strany": [
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 6736,
             "zastupitele": [
               {
@@ -1609,17 +1609,17 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 1595,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 579,
             "zastupitelu": 0
           },
           {
-            "nazev": "Desítka pro domácí",
+            "id": 750,
             "hlasu": 6770,
             "zastupitele": [
               {
@@ -1631,7 +1631,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 6596,
             "zastupitele": [
               {
@@ -1643,12 +1643,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "SUVERENITA - blok Jany Bobošíkové",
+            "id": 137,
             "hlasu": 2381,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 17949,
             "zastupitele": [
               {
@@ -1665,12 +1665,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 2914,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 14485,
             "zastupitele": [
               {
@@ -1687,7 +1687,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 19383,
             "zastupitele": [
               {
@@ -1713,27 +1713,27 @@
         "okrsky_spocteny": 28,
         "strany": [
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 4521,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 3087,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 2136,
             "zastupitelu": 0
           },
           {
-            "nazev": "SUVERENITA - blok Jany Bobošíkové",
+            "id": 137,
             "hlasu": 2422,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 16619,
             "zastupitele": [
               {
@@ -1755,7 +1755,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 5290,
             "zastupitele": [
               {
@@ -1767,7 +1767,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 14392,
             "zastupitele": [
               {
@@ -1784,7 +1784,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 12072,
             "zastupitele": [
               {
@@ -1801,7 +1801,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Desítka pro domácí",
+            "id": 750,
             "hlasu": 5873,
             "zastupitele": [
               {
@@ -1813,7 +1813,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 543,
             "zastupitelu": 0
           }
@@ -1838,7 +1838,7 @@
         "okrsky_spocteny": 62,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 256462,
             "zastupitele": [
               {
@@ -1900,12 +1900,12 @@
             "zastupitelu": 11
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 18106,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 174117,
             "zastupitele": [
               {
@@ -1947,12 +1947,12 @@
             "zastupitelu": 7
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 32664,
             "zastupitelu": 1
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 82487,
             "zastupitele": [
               {
@@ -1974,12 +1974,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Strana svobodných občanů",
+            "id": 714,
             "hlasu": 623,
             "zastupitelu": 0
           },
           {
-            "nazev": "Hnutí pro Prahu 11",
+            "id": 195,
             "hlasu": 202673,
             "zastupitele": [
               {
@@ -2031,12 +2031,12 @@
             "zastupitelu": 8
           },
           {
-            "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "id": 55,
             "hlasu": 376,
             "zastupitelu": 0
           },
           {
-            "nazev": "Pražané za svá práva",
+            "id": 744,
             "hlasu": 53297,
             "zastupitele": [
               {
@@ -2053,17 +2053,17 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 37228,
             "zastupitelu": 1
           },
           {
-            "nazev": "SUVERENITA - blok Jany Bobošíkové",
+            "id": 137,
             "hlasu": 21879,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 155076,
             "zastupitele": [
               {
@@ -2125,7 +2125,7 @@
         "okrsky_spocteny": 50,
         "strany": [
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 61713,
             "zastupitele": [
               {
@@ -2147,7 +2147,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 43110,
             "zastupitele": [
               {
@@ -2164,7 +2164,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 131643,
             "zastupitele": [
               {
@@ -2211,12 +2211,12 @@
             "zastupitelu": 8
           },
           {
-            "nazev": "Strana podnikatelů a živnostníků",
+            "id": 705,
             "hlasu": 2065,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 110146,
             "zastupitele": [
               {
@@ -2258,7 +2258,7 @@
             "zastupitelu": 7
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 144424,
             "zastupitele": [
               {
@@ -2310,7 +2310,7 @@
             "zastupitelu": 9
           },
           {
-            "nazev": "Změna pro Prahu 12: Koalice politických stran KDU-ČSL a SZ a Suverenita - blok  J. Bobošíkové,str.zdr.roz. KAN, ČPS a KS",
+            "id": 667,
             "hlasu": 107024,
             "zastupitele": [
               {
@@ -2367,7 +2367,7 @@
         "okrsky_spocteny": 50,
         "strany": [
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 21563,
             "zastupitele": [
               {
@@ -2379,7 +2379,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 34033,
             "zastupitele": [
               {
@@ -2396,22 +2396,22 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 6549,
             "zastupitelu": 0
           },
           {
-            "nazev": "OBČANÉ.CZ",
+            "id": 718,
             "hlasu": 1096,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 16960,
             "zastupitelu": 1
           },
           {
-            "nazev": "Strana zelených a občané Prahy 13",
+            "id": 364,
             "hlasu": 43395,
             "zastupitele": [
               {
@@ -2433,7 +2433,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 130751,
             "zastupitele": [
               {
@@ -2485,7 +2485,7 @@
             "zastupitelu": 9
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 98575,
             "zastupitele": [
               {
@@ -2522,7 +2522,7 @@
             "zastupitelu": 6
           },
           {
-            "nazev": "Občanská koalice Prahy 13 - Občané Prahy 13 bez politické příslušnosti a NEZÁVISLÍ",
+            "id": 401,
             "hlasu": 34299,
             "zastupitele": [
               {
@@ -2539,7 +2539,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 183979,
             "zastupitele": [
               {
@@ -2626,7 +2626,7 @@
         "okrsky_spocteny": 31,
         "strany": [
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 25133,
             "zastupitele": [
               {
@@ -2643,12 +2643,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Strana svobodných občanů",
+            "id": 714,
             "hlasu": 2548,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 89313,
             "zastupitele": [
               {
@@ -2700,12 +2700,12 @@
             "zastupitelu": 9
           },
           {
-            "nazev": "SUVERENITA - blok Jany Bobošíkové",
+            "id": 137,
             "hlasu": 13480,
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 82309,
             "zastupitele": [
               {
@@ -2757,7 +2757,7 @@
             "zastupitelu": 8
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 24209,
             "zastupitele": [
               {
@@ -2774,7 +2774,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 19093,
             "zastupitele": [
               {
@@ -2791,7 +2791,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 65562,
             "zastupitele": [
               {
@@ -2853,7 +2853,7 @@
         "okrsky_spocteny": 4,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 3543,
             "zastupitele": [
               {
@@ -2870,17 +2870,17 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 760,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana Svobodných občanů (Svobodní)",
+            "id": 714,
             "hlasu": 552,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 2723,
             "zastupitele": [
               {
@@ -2897,7 +2897,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "NEZÁVISLÍ",
+            "id": 88,
             "hlasu": 1632,
             "zastupitele": [
               {
@@ -2909,12 +2909,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 925,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 2821,
             "zastupitele": [
               {
@@ -2940,7 +2940,7 @@
         "okrsky_spocteny": 5,
         "strany": [
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 3482,
             "zastupitele": [
               {
@@ -2957,7 +2957,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "NEZÁVISLÍ",
+            "id": 88,
             "hlasu": 1748,
             "zastupitele": [
               {
@@ -2969,7 +2969,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 2966,
             "zastupitele": [
               {
@@ -2986,7 +2986,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 3788,
             "zastupitele": [
               {
@@ -3003,17 +3003,17 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 1126,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 1076,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 1000,
             "zastupitelu": 0
           }
@@ -3027,7 +3027,7 @@
         "okrsky_spocteny": 7,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 4869,
             "zastupitele": [
               {
@@ -3044,7 +3044,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "NEZÁVISLÍ",
+            "id": 88,
             "hlasu": 2702,
             "zastupitele": [
               {
@@ -3056,7 +3056,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 4675,
             "zastupitele": [
               {
@@ -3073,7 +3073,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 4242,
             "zastupitele": [
               {
@@ -3090,7 +3090,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 820,
             "zastupitelu": 0
           }
@@ -3104,7 +3104,7 @@
         "okrsky_spocteny": 5,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 5786,
             "zastupitele": [
               {
@@ -3126,7 +3126,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 3347,
             "zastupitele": [
               {
@@ -3143,17 +3143,17 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 1048,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 703,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 4584,
             "zastupitele": [
               {
@@ -3170,7 +3170,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "NEZÁVISLÍ",
+            "id": 88,
             "hlasu": 1232,
             "zastupitelu": 0
           }
@@ -3195,7 +3195,7 @@
         "okrsky_spocteny": 8,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 29510,
             "zastupitele": [
               {
@@ -3252,7 +3252,7 @@
             "zastupitelu": 10
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 2730,
             "zastupitele": [
               {
@@ -3264,7 +3264,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 6790,
             "zastupitele": [
               {
@@ -3281,7 +3281,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 5662,
             "zastupitele": [
               {
@@ -3298,12 +3298,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 1424,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených (SZ)",
+            "id": 5,
             "hlasu": 575,
             "zastupitelu": 0
           }
@@ -3328,7 +3328,7 @@
         "okrsky_spocteny": 18,
         "strany": [
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 9235,
             "zastupitele": [
               {
@@ -3340,12 +3340,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 6800,
             "zastupitelu": 1
           },
           {
-            "nazev": "Sdružení za rozvoj Řep, Strana Práv Občanů Zemanovci a Suverenita - blok Jany Bobošíkové",
+            "id": 679,
             "hlasu": 24206,
             "zastupitele": [
               {
@@ -3372,7 +3372,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 11220,
             "zastupitele": [
               {
@@ -3384,7 +3384,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 30593,
             "zastupitele": [
               {
@@ -3416,7 +3416,7 @@
             "zastupitelu": 5
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 38423,
             "zastupitele": [
               {
@@ -3453,12 +3453,12 @@
             "zastupitelu": 6
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 5484,
             "zastupitelu": 0
           },
           {
-            "nazev": "Hnutí LEPŠÍ ŘEPY",
+            "id": 184,
             "hlasu": 17529,
             "zastupitele": [
               {
@@ -3480,7 +3480,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 22264,
             "zastupitele": [
               {
@@ -3522,7 +3522,7 @@
         "okrsky_spocteny": 12,
         "strany": [
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 8723,
             "zastupitele": [
               {
@@ -3539,7 +3539,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 7366,
             "zastupitele": [
               {
@@ -3551,7 +3551,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 20666,
             "zastupitele": [
               {
@@ -3583,17 +3583,17 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "SUVERENITA - blok Jany Bobošíkové, strana zdravého rozumu",
+            "id": 137,
             "hlasu": 4788,
             "zastupitelu": 1
           },
           {
-            "nazev": "NEZÁVISLÍ",
+            "id": 88,
             "hlasu": 4037,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 38294,
             "zastupitele": [
               {
@@ -3645,7 +3645,7 @@
             "zastupitelu": 9
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 18862,
             "zastupitele": [
               {
@@ -3692,12 +3692,12 @@
         "okrsky_spocteny": 6,
         "strany": [
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 1002,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 2471,
             "zastupitele": [
               {
@@ -3709,7 +3709,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 19543,
             "zastupitele": [
               {
@@ -3761,7 +3761,7 @@
             "zastupitelu": 9
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 3574,
             "zastupitele": [
               {
@@ -3773,7 +3773,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Sdružení nezávislých kandidátů Kbely (SNKK)",
+            "id": 90,
             "hlasu": 6076,
             "zastupitele": [
               {
@@ -3790,12 +3790,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Sdružení nezávislých kandidátů a sportovců",
+            "id": 90,
             "hlasu": 1395,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 4100,
             "zastupitele": [
               {
@@ -3832,12 +3832,12 @@
         "okrsky_spocteny": 45,
         "strany": [
           {
-            "nazev": "ČESKÝ POLITICKÝ STŘED",
+            "id": 717,
             "hlasu": 46,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 38578,
             "zastupitele": [
               {
@@ -3854,12 +3854,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 12887,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občané za spokojené bydlení (OSB)",
+            "id": 90,
             "hlasu": 103845,
             "zastupitele": [
               {
@@ -3906,7 +3906,7 @@
             "zastupitelu": 7
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 144108,
             "zastupitele": [
               {
@@ -3968,17 +3968,17 @@
             "zastupitelu": 10
           },
           {
-            "nazev": "Strana podnikatelů a živnostníků",
+            "id": 705,
             "hlasu": 108,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 19245,
             "zastupitelu": 1
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 79463,
             "zastupitele": [
               {
@@ -4015,7 +4015,7 @@
             "zastupitelu": 6
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 111927,
             "zastupitele": [
               {
@@ -4062,17 +4062,17 @@
             "zastupitelu": 8
           },
           {
-            "nazev": "\"Mírové hnutí 2007\"",
+            "id": 712,
             "hlasu": 68,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 18328,
             "zastupitelu": 1
           },
           {
-            "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "id": 55,
             "hlasu": 339,
             "zastupitelu": 0
           }
@@ -4097,7 +4097,7 @@
         "okrsky_spocteny": 12,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 17742,
             "zastupitele": [
               {
@@ -4119,7 +4119,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 16019,
             "zastupitele": [
               {
@@ -4141,7 +4141,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 11240,
             "zastupitele": [
               {
@@ -4158,7 +4158,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Šance pro Počernice",
+            "id": 90,
             "hlasu": 35549,
             "zastupitele": [
               {
@@ -4200,7 +4200,7 @@
             "zastupitelu": 7
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 9391,
             "zastupitele": [
               {
@@ -4217,7 +4217,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 7506,
             "zastupitele": [
               {
@@ -4229,7 +4229,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "\"NEZÁVISLÉ HORNÍ POČERNICE - STAROSTOVÉ A NEZÁVISLÍ\"",
+            "id": 470,
             "hlasu": 36883,
             "zastupitele": [
               {
@@ -4271,7 +4271,7 @@
             "zastupitelu": 7
           },
           {
-            "nazev": "SUVERENITA - blok Jany Bobošíkové",
+            "id": 137,
             "hlasu": 464,
             "zastupitelu": 0
           }
@@ -4296,7 +4296,7 @@
         "okrsky_spocteny": 7,
         "strany": [
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 3478,
             "zastupitele": [
               {
@@ -4308,7 +4308,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Volba pro Újezd",
+            "id": 470,
             "hlasu": 5608,
             "zastupitele": [
               {
@@ -4320,7 +4320,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 5256,
             "zastupitele": [
               {
@@ -4332,7 +4332,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 7591,
             "zastupitele": [
               {
@@ -4349,7 +4349,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 8790,
             "zastupitele": [
               {
@@ -4371,7 +4371,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 18625,
             "zastupitele": [
               {
@@ -4408,7 +4408,7 @@
             "zastupitelu": 6
           },
           {
-            "nazev": "Otevřený Újezd",
+            "id": 364,
             "hlasu": 10125,
             "zastupitele": [
               {
@@ -4450,7 +4450,7 @@
         "okrsky_spocteny": 7,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 37429,
             "zastupitele": [
               {
@@ -4537,12 +4537,12 @@
             "zastupitelu": 16
           },
           {
-            "nazev": "Česká pirátská strana",
+            "id": 720,
             "hlasu": 1800,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 10011,
             "zastupitele": [
               {
@@ -4569,7 +4569,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 13054,
             "zastupitele": [
               {
@@ -4621,12 +4621,12 @@
         "okrsky_spocteny": 19,
         "strany": [
           {
-            "nazev": "Strana svobodných občanů",
+            "id": 714,
             "hlasu": 756,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 11975,
             "zastupitele": [
               {
@@ -4648,12 +4648,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 2653,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 8911,
             "zastupitele": [
               {
@@ -4670,7 +4670,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 13425,
             "zastupitele": [
               {
@@ -4692,17 +4692,17 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 2294,
             "zastupitelu": 0
           },
           {
-            "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "id": 55,
             "hlasu": 140,
             "zastupitelu": 0
           },
           {
-            "nazev": "Žižkov (nejen) sobě: koalice SZ, KDU-ČSL a NK",
+            "id": 479,
             "hlasu": 6856,
             "zastupitele": [
               {
@@ -4714,7 +4714,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Volba pro město - Nezávislí kandidáti",
+            "id": 411,
             "hlasu": 1321,
             "zastupitelu": 0
           }
@@ -4728,7 +4728,7 @@
         "okrsky_spocteny": 21,
         "strany": [
           {
-            "nazev": "Žižkov (nejen) sobě: koalice SZ, KDU-ČSL a NK",
+            "id": 479,
             "hlasu": 9380,
             "zastupitele": [
               {
@@ -4745,12 +4745,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Volba pro město - Nezávislí kandidáti",
+            "id": 411,
             "hlasu": 1564,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 8847,
             "zastupitele": [
               {
@@ -4767,12 +4767,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 2622,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 11384,
             "zastupitele": [
               {
@@ -4794,12 +4794,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 2301,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 7102,
             "zastupitele": [
               {
@@ -4825,12 +4825,12 @@
         "okrsky_spocteny": 21,
         "strany": [
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 3161,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 11491,
             "zastupitele": [
               {
@@ -4852,7 +4852,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Žižkov (nejen) sobě: koalice SZ, KDU-ČSL a NK",
+            "id": 479,
             "hlasu": 13881,
             "zastupitele": [
               {
@@ -4874,12 +4874,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "\"Mírové hnutí 2007\"",
+            "id": 712,
             "hlasu": 24,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 8312,
             "zastupitele": [
               {
@@ -4896,12 +4896,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Volba pro město - Nezávislí kandidáti",
+            "id": 411,
             "hlasu": 1760,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 7237,
             "zastupitele": [
               {
@@ -4913,7 +4913,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 3075,
             "zastupitelu": 0
           }
@@ -4927,12 +4927,12 @@
         "okrsky_spocteny": 19,
         "strany": [
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 3847,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 11694,
             "zastupitele": [
               {
@@ -4949,7 +4949,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 10163,
             "zastupitele": [
               {
@@ -4966,7 +4966,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 5197,
             "zastupitele": [
               {
@@ -4978,12 +4978,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Volba pro město - Nezávislí kandidáti",
+            "id": 411,
             "hlasu": 3651,
             "zastupitelu": 0
           },
           {
-            "nazev": "Žižkov (nejen) sobě: koalice SZ, KDU-ČSL a NK",
+            "id": 479,
             "hlasu": 9754,
             "zastupitele": [
               {
@@ -5000,7 +5000,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 11159,
             "zastupitele": [
               {
@@ -5037,17 +5037,17 @@
         "okrsky_spocteny": 27,
         "strany": [
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 818,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 3266,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 19237,
             "zastupitele": [
               {
@@ -5069,7 +5069,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 13522,
             "zastupitele": [
               {
@@ -5086,12 +5086,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 3832,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 23170,
             "zastupitele": [
               {
@@ -5113,12 +5113,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Změna pro Prahu 4 - koalice politických stran Suverenita-blok Jany Bobošíkové, České pirátské strany a KDU-ČSL v Praze 4",
+            "id": 683,
             "hlasu": 1589,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 8362,
             "zastupitele": [
               {
@@ -5139,7 +5139,7 @@
         "okrsky_spocteny": 25,
         "strany": [
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 23271,
             "zastupitele": [
               {
@@ -5161,7 +5161,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 6658,
             "zastupitele": [
               {
@@ -5173,7 +5173,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 26210,
             "zastupitele": [
               {
@@ -5195,12 +5195,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Změna pro Prahu 4 - koalice politických stran Suverenita-blok Jany Bobošíkové, České pirátské strany a KDU-ČSL v Praze 4",
+            "id": 683,
             "hlasu": 2313,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 14471,
             "zastupitele": [
               {
@@ -5217,17 +5217,17 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 3571,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 754,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 5747,
             "zastupitelu": 0
           }
@@ -5241,7 +5241,7 @@
         "okrsky_spocteny": 27,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 24498,
             "zastupitele": [
               {
@@ -5268,12 +5268,12 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 827,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 15629,
             "zastupitele": [
               {
@@ -5290,7 +5290,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 21298,
             "zastupitele": [
               {
@@ -5312,22 +5312,22 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Změna pro Prahu 4 - koalice politických stran Suverenita-blok Jany Bobošíkové, České pirátské strany a KDU-ČSL v Praze 4",
+            "id": 683,
             "hlasu": 2138,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 5021,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 3301,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 5437,
             "zastupitelu": 0
           }
@@ -5341,12 +5341,12 @@
         "okrsky_spocteny": 26,
         "strany": [
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 3199,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 7412,
             "zastupitele": [
               {
@@ -5358,7 +5358,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 15369,
             "zastupitele": [
               {
@@ -5375,17 +5375,17 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Změna pro Prahu 4 - koalice politických stran Suverenita-blok Jany Bobošíkové, České pirátské strany a KDU-ČSL v Praze 4",
+            "id": 683,
             "hlasu": 2258,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 864,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 23649,
             "zastupitele": [
               {
@@ -5407,7 +5407,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 20161,
             "zastupitele": [
               {
@@ -5429,7 +5429,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 5019,
             "zastupitelu": 0
           }
@@ -5443,17 +5443,17 @@
         "okrsky_spocteny": 26,
         "strany": [
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 3336,
             "zastupitelu": 0
           },
           {
-            "nazev": "Změna pro Prahu 4 - koalice politických stran Suverenita-blok Jany Bobošíkové, České pirátské strany a KDU-ČSL v Praze 4",
+            "id": 683,
             "hlasu": 2244,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 17621,
             "zastupitele": [
               {
@@ -5475,12 +5475,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 765,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 14323,
             "zastupitele": [
               {
@@ -5497,7 +5497,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 6331,
             "zastupitele": [
               {
@@ -5509,7 +5509,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 15698,
             "zastupitele": [
               {
@@ -5526,7 +5526,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 6801,
             "zastupitele": [
               {
@@ -5558,7 +5558,7 @@
         "okrsky_spocteny": 81,
         "strany": [
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 193457,
             "zastupitele": [
               {
@@ -5610,12 +5610,12 @@
             "zastupitelu": 8
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 33570,
             "zastupitelu": 1
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 61405,
             "zastupitele": [
               {
@@ -5632,7 +5632,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 229516,
             "zastupitele": [
               {
@@ -5689,17 +5689,17 @@
             "zastupitelu": 9
           },
           {
-            "nazev": "Strana svobodných občanů",
+            "id": 714,
             "hlasu": 1801,
             "zastupitelu": 0
           },
           {
-            "nazev": "\"Nezávislí občané Prahy\"",
+            "id": 749,
             "hlasu": 46367,
             "zastupitelu": 2
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 81046,
             "zastupitele": [
               {
@@ -5721,7 +5721,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 142729,
             "zastupitele": [
               {
@@ -5758,7 +5758,7 @@
             "zastupitelu": 6
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 335587,
             "zastupitele": [
               {
@@ -5860,12 +5860,12 @@
         "okrsky_spocteny": 104,
         "strany": [
           {
-            "nazev": "Dohoda pro Prahu 6",
+            "id": 343,
             "hlasu": 66229,
             "zastupitelu": 1
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 265744,
             "zastupitele": [
               {
@@ -5912,7 +5912,7 @@
             "zastupitelu": 8
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 125816,
             "zastupitele": [
               {
@@ -5939,7 +5939,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 666014,
             "zastupitele": [
               {
@@ -6051,7 +6051,7 @@
             "zastupitelu": 20
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 309806,
             "zastupitele": [
               {
@@ -6103,12 +6103,12 @@
             "zastupitelu": 9
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 55042,
             "zastupitelu": 1
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 124958,
             "zastupitele": [
               {
@@ -6150,7 +6150,7 @@
         "okrsky_spocteny": 36,
         "strany": [
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 17670,
             "zastupitele": [
               {
@@ -6162,7 +6162,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Strana zelených s podporou SNK Evropských demokratů",
+            "id": 285,
             "hlasu": 40685,
             "zastupitele": [
               {
@@ -6189,27 +6189,27 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Společně pro Prahu 7, s podporou Starostů - www.tvpraha7.cz",
+            "id": 470,
             "hlasu": 9518,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 9935,
             "zastupitelu": 0
           },
           {
-            "nazev": "SUVERENITA - blok Jany Bobošíkové",
+            "id": 137,
             "hlasu": 6928,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 13962,
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 97239,
             "zastupitele": [
               {
@@ -6261,7 +6261,7 @@
             "zastupitelu": 9
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 85102,
             "zastupitele": [
               {
@@ -6308,7 +6308,7 @@
             "zastupitelu": 8
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 55343,
             "zastupitele": [
               {
@@ -6340,7 +6340,7 @@
             "zastupitelu": 5
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 2485,
             "zastupitelu": 0
           }
@@ -6365,7 +6365,7 @@
         "okrsky_spocteny": 42,
         "strany": [
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 34427,
             "zastupitele": [
               {
@@ -6392,7 +6392,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Volba pro Prahu 8",
+            "id": 666,
             "hlasu": 13661,
             "zastupitele": [
               {
@@ -6404,7 +6404,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 24154,
             "zastupitele": [
               {
@@ -6426,12 +6426,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 1981,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 9279,
             "zastupitele": [
               {
@@ -6443,12 +6443,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 1128,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 39433,
             "zastupitele": [
               {
@@ -6480,7 +6480,7 @@
             "zastupitelu": 5
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 11668,
             "zastupitele": [
               {
@@ -6492,7 +6492,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 6288,
             "zastupitelu": 0
           }
@@ -6506,12 +6506,12 @@
         "okrsky_spocteny": 35,
         "strany": [
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 1495,
             "zastupitelu": 0
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 11294,
             "zastupitele": [
               {
@@ -6523,12 +6523,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 8819,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 18798,
             "zastupitele": [
               {
@@ -6545,17 +6545,17 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Volba pro Prahu 8",
+            "id": 666,
             "hlasu": 5218,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 1192,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 36154,
             "zastupitele": [
               {
@@ -6577,7 +6577,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 36209,
             "zastupitele": [
               {
@@ -6604,7 +6604,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 47861,
             "zastupitele": [
               {
@@ -6645,12 +6645,12 @@
         "okrsky_spocteny": 31,
         "strany": [
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 1233,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 32397,
             "zastupitele": [
               {
@@ -6672,12 +6672,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 7435,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 19129,
             "zastupitele": [
               {
@@ -6694,7 +6694,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 13487,
             "zastupitele": [
               {
@@ -6706,7 +6706,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 43491,
             "zastupitele": [
               {
@@ -6733,7 +6733,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 34930,
             "zastupitele": [
               {
@@ -6760,7 +6760,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Volba pro Prahu 8",
+            "id": 666,
             "hlasu": 9600,
             "zastupitele": [
               {
@@ -6772,7 +6772,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 1311,
             "zastupitelu": 0
           }
@@ -6797,12 +6797,12 @@
         "okrsky_spocteny": 16,
         "strany": [
           {
-            "nazev": "Česká strana národně socialistická",
+            "id": 175,
             "hlasu": 744,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 15554,
             "zastupitele": [
               {
@@ -6824,12 +6824,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 4003,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 15655,
             "zastupitele": [
               {
@@ -6851,12 +6851,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 82,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 22527,
             "zastupitele": [
               {
@@ -6883,7 +6883,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 4637,
             "zastupitele": [
               {
@@ -6895,7 +6895,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Zelení a nezávislí pro Prahu 9",
+            "id": 5,
             "hlasu": 5938,
             "zastupitele": [
               {
@@ -6916,7 +6916,7 @@
         "okrsky_spocteny": 10,
         "strany": [
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 6093,
             "zastupitele": [
               {
@@ -6933,7 +6933,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 10754,
             "zastupitele": [
               {
@@ -6965,7 +6965,7 @@
             "zastupitelu": 5
           },
           {
-            "nazev": "Zelení a nezávislí pro Prahu 9",
+            "id": 5,
             "hlasu": 2126,
             "zastupitele": [
               {
@@ -6977,22 +6977,22 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 65,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 1525,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 1818,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 2638,
             "zastupitele": [
               {
@@ -7013,7 +7013,7 @@
         "okrsky_spocteny": 15,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 18666,
             "zastupitele": [
               {
@@ -7045,12 +7045,12 @@
             "zastupitelu": 5
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 3453,
             "zastupitelu": 0
           },
           {
-            "nazev": "Zelení a nezávislí pro Prahu 9",
+            "id": 5,
             "hlasu": 4428,
             "zastupitele": [
               {
@@ -7062,17 +7062,17 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 210,
             "zastupitelu": 0
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 2539,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 13459,
             "zastupitele": [
               {
@@ -7094,7 +7094,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 7031,
             "zastupitele": [
               {
@@ -7131,7 +7131,7 @@
         "okrsky_spocteny": 2,
         "strany": [
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 3560,
             "zastupitele": [
               {
@@ -7163,7 +7163,7 @@
             "zastupitelu": 5
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 5263,
             "zastupitele": [
               {
@@ -7205,7 +7205,7 @@
             "zastupitelu": 7
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 2388,
             "zastupitele": [
               {
@@ -7227,7 +7227,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 408,
             "zastupitelu": 0
           }
@@ -7252,7 +7252,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 459,
             "zastupitele": [
               {
@@ -7264,7 +7264,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Sdružení nezávislých kandidátů v Praze 10 - Benicích",
+            "id": 90,
             "hlasu": 1474,
             "zastupitele": [
               {
@@ -7321,7 +7321,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "OBČANÉ PRO BŘEZINĚVES",
+            "id": 90,
             "hlasu": 3435,
             "zastupitele": [
               {
@@ -7363,7 +7363,7 @@
             "zastupitelu": 7
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 1074,
             "zastupitele": [
               {
@@ -7400,7 +7400,7 @@
         "okrsky_spocteny": 6,
         "strany": [
           {
-            "nazev": "Sdružení nezávislých kandidátů \"Rozum a slušnost\"",
+            "id": 90,
             "hlasu": 4523,
             "zastupitele": [
               {
@@ -7412,7 +7412,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 16065,
             "zastupitele": [
               {
@@ -7449,17 +7449,17 @@
             "zastupitelu": 6
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 2724,
             "zastupitelu": 1
           },
           {
-            "nazev": "SUVERENITA - blok Jany Bobošíkové",
+            "id": 137,
             "hlasu": 1729,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 7765,
             "zastupitele": [
               {
@@ -7481,12 +7481,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 3032,
             "zastupitelu": 1
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 6564,
             "zastupitele": [
               {
@@ -7503,7 +7503,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Sdružení nezávislých kandidátů Čakovice, Miškovice, Třeboradice (ČMT)",
+            "id": 90,
             "hlasu": 20963,
             "zastupitele": [
               {
@@ -7550,7 +7550,7 @@
             "zastupitelu": 7
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 4784,
             "zastupitele": [
               {
@@ -7582,7 +7582,7 @@
         "okrsky_spocteny": 2,
         "strany": [
           {
-            "nazev": "\"Ďáblice pro nás všechny\"",
+            "id": 90,
             "hlasu": 3224,
             "zastupitele": [
               {
@@ -7604,7 +7604,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 1384,
             "zastupitele": [
               {
@@ -7616,7 +7616,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "\"VOLBA 2010\"",
+            "id": 90,
             "hlasu": 2924,
             "zastupitele": [
               {
@@ -7633,7 +7633,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 3158,
             "zastupitele": [
               {
@@ -7650,7 +7650,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "\"STAROSTOVÉ A NEZÁVISLÍ\"",
+            "id": 166,
             "hlasu": 4300,
             "zastupitele": [
               {
@@ -7677,7 +7677,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "\"Ď á b l i c e   o b č a n ů m\"",
+            "id": 90,
             "hlasu": 2609,
             "zastupitele": [
               {
@@ -7694,7 +7694,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "\"Vaše volba - Ďáblice!\"",
+            "id": 90,
             "hlasu": 1604,
             "zastupitele": [
               {
@@ -7726,7 +7726,7 @@
         "okrsky_spocteny": 2,
         "strany": [
           {
-            "nazev": "Volba pro Chabry",
+            "id": 90,
             "hlasu": 6534,
             "zastupitele": [
               {
@@ -7758,7 +7758,7 @@
             "zastupitelu": 5
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 4979,
             "zastupitele": [
               {
@@ -7785,7 +7785,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "SDRUŽENÍ NAŠE CHABRY",
+            "id": 90,
             "hlasu": 4884,
             "zastupitele": [
               {
@@ -7807,12 +7807,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 225,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 4205,
             "zastupitele": [
               {
@@ -7854,7 +7854,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 910,
             "zastupitele": [
               {
@@ -7866,7 +7866,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 3584,
             "zastupitele": [
               {
@@ -7903,7 +7903,7 @@
             "zastupitelu": 6
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 1124,
             "zastupitele": [
               {
@@ -7940,7 +7940,7 @@
         "okrsky_spocteny": 2,
         "strany": [
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 838,
             "zastupitele": [
               {
@@ -7952,7 +7952,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "SNK Evropští demokraté",
+            "id": 129,
             "hlasu": 1261,
             "zastupitele": [
               {
@@ -7964,7 +7964,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 5637,
             "zastupitele": [
               {
@@ -8006,7 +8006,7 @@
             "zastupitelu": 7
           },
           {
-            "nazev": "Konzervativní strana",
+            "id": 24,
             "hlasu": 801,
             "zastupitele": [
               {
@@ -8018,7 +8018,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 1490,
             "zastupitele": [
               {
@@ -8035,7 +8035,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 721,
             "zastupitele": [
               {
@@ -8047,7 +8047,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 1000,
             "zastupitele": [
               {
@@ -8059,7 +8059,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 1342,
             "zastupitele": [
               {
@@ -8091,7 +8091,7 @@
         "okrsky_spocteny": 2,
         "strany": [
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 2266,
             "zastupitele": [
               {
@@ -8108,7 +8108,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 8070,
             "zastupitele": [
               {
@@ -8150,7 +8150,7 @@
             "zastupitelu": 7
           },
           {
-            "nazev": "DUBEČ 2010 - OBČANÉ A PŘÍRODA",
+            "id": 90,
             "hlasu": 2558,
             "zastupitele": [
               {
@@ -8167,7 +8167,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "NEZÁVISLÍ PRO DUBEČ",
+            "id": 88,
             "hlasu": 3198,
             "zastupitele": [
               {
@@ -8184,12 +8184,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Dobrovolné sdružení dobrých sousedů",
+            "id": 470,
             "hlasu": 57,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 2213,
             "zastupitele": [
               {
@@ -8201,7 +8201,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "\"Nezávislí kandidáti pro občany Dubče a Dubečka\"",
+            "id": 90,
             "hlasu": 1923,
             "zastupitele": [
               {
@@ -8233,7 +8233,7 @@
         "okrsky_spocteny": 2,
         "strany": [
           {
-            "nazev": "HLAS KLÁNOVIC - Slušně a s rozumem pro koncepční rozvoj a zachování přírodního rázu Klánovic. Nechceme už ztrácet čas...",
+            "id": 371,
             "hlasu": 2800,
             "zastupitele": [
               {
@@ -8250,7 +8250,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 3394,
             "zastupitele": [
               {
@@ -8272,7 +8272,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Čas na změnu",
+            "id": 466,
             "hlasu": 3836,
             "zastupitele": [
               {
@@ -8294,7 +8294,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 4445,
             "zastupitele": [
               {
@@ -8316,12 +8316,12 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 291,
             "zastupitelu": 0
           },
           {
-            "nazev": "Spolu PRO Klánovice",
+            "id": 90,
             "hlasu": 4370,
             "zastupitele": [
               {
@@ -8343,7 +8343,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Občané Klánovic - OK",
+            "id": 90,
             "hlasu": 1815,
             "zastupitele": [
               {
@@ -8375,7 +8375,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "OBČANÉ KOLODĚJ - OK",
+            "id": 90,
             "hlasu": 423,
             "zastupitele": [
               {
@@ -8387,7 +8387,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "SDRUŽENÍ ANGAŽOVANÝCH KOLODĚJSKÝCH OBČANŮ",
+            "id": 90,
             "hlasu": 422,
             "zastupitele": [
               {
@@ -8399,17 +8399,17 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "SDRUŽENÍ PŘÁTEL KOLODĚJ",
+            "id": 90,
             "hlasu": 367,
             "zastupitelu": 0
           },
           {
-            "nazev": "Sportovci pro Koloděje",
+            "id": 90,
             "hlasu": 287,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 510,
             "zastupitele": [
               {
@@ -8421,7 +8421,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "SDH KOLODĚJE",
+            "id": 90,
             "hlasu": 1088,
             "zastupitele": [
               {
@@ -8438,7 +8438,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 373,
             "zastupitele": [
               {
@@ -8450,7 +8450,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "ŠANCE PRO KOLODĚJE",
+            "id": 90,
             "hlasu": 683,
             "zastupitele": [
               {
@@ -8462,7 +8462,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Sdružení nezávislých kandidátů pro změnu",
+            "id": 90,
             "hlasu": 229,
             "zastupitelu": 0
           }
@@ -8487,7 +8487,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 6337,
             "zastupitele": [
               {
@@ -8524,7 +8524,7 @@
             "zastupitelu": 6
           },
           {
-            "nazev": "\"Kolovraty a Lipany - Náš Domov\"",
+            "id": 90,
             "hlasu": 7035,
             "zastupitele": [
               {
@@ -8586,7 +8586,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "\"Sdružení nezávislých kandidátů v Praze - Královicích\"",
+            "id": 90,
             "hlasu": 424,
             "zastupitele": [
               {
@@ -8638,12 +8638,12 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 231,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 373,
             "zastupitele": [
               {
@@ -8655,7 +8655,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Sdružení nezávislých kandidátů",
+            "id": 90,
             "hlasu": 343,
             "zastupitele": [
               {
@@ -8667,7 +8667,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "ALIANCE JIHOVÝCHOD",
+            "id": 90,
             "hlasu": 448,
             "zastupitele": [
               {
@@ -8679,7 +8679,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "BUDOUCNOST KŘESLIC",
+            "id": 90,
             "hlasu": 1203,
             "zastupitele": [
               {
@@ -8706,12 +8706,12 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Alternativa pro Křeslice",
+            "id": 90,
             "hlasu": 191,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 63,
             "zastupitelu": 0
           }
@@ -8736,7 +8736,7 @@
         "okrsky_spocteny": 6,
         "strany": [
           {
-            "nazev": "KOALICE - ČSSD, STRANA ZELENÝCH A NEZÁVISLÍ",
+            "id": 227,
             "hlasu": 3299,
             "zastupitele": [
               {
@@ -8748,17 +8748,17 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 955,
             "zastupitelu": 0
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 1287,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 8423,
             "zastupitele": [
               {
@@ -8780,7 +8780,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 15453,
             "zastupitele": [
               {
@@ -8822,7 +8822,7 @@
             "zastupitelu": 7
           },
           {
-            "nazev": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
+            "id": 137,
             "hlasu": 1039,
             "zastupitelu": 0
           }
@@ -8847,7 +8847,7 @@
         "okrsky_spocteny": 6,
         "strany": [
           {
-            "nazev": "TOP 09 a nezávislí kandidáti",
+            "id": 480,
             "hlasu": 16603,
             "zastupitele": [
               {
@@ -8884,7 +8884,7 @@
             "zastupitelu": 6
           },
           {
-            "nazev": "SNK - Evropští demokraté",
+            "id": 129,
             "hlasu": 2988,
             "zastupitele": [
               {
@@ -8896,7 +8896,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 8485,
             "zastupitele": [
               {
@@ -8918,7 +8918,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 5388,
             "zastupitele": [
               {
@@ -8935,7 +8935,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 3150,
             "zastupitele": [
               {
@@ -8947,7 +8947,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 10215,
             "zastupitele": [
               {
@@ -8994,7 +8994,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "Sdružení pro Lipence",
+            "id": 90,
             "hlasu": 5267,
             "zastupitele": [
               {
@@ -9031,7 +9031,7 @@
             "zastupitelu": 6
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 8777,
             "zastupitele": [
               {
@@ -9103,7 +9103,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 1789,
             "zastupitele": [
               {
@@ -9175,7 +9175,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 468,
             "zastupitele": [
               {
@@ -9187,7 +9187,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ I",
+            "id": 90,
             "hlasu": 2590,
             "zastupitele": [
               {
@@ -9224,7 +9224,7 @@
             "zastupitelu": 6
           },
           {
-            "nazev": "Sdružení nezávislých kandidátů II",
+            "id": 90,
             "hlasu": 1015,
             "zastupitele": [
               {
@@ -9261,7 +9261,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "SDRUŽENÍ PRO NEBUŠICE",
+            "id": 90,
             "hlasu": 3088,
             "zastupitele": [
               {
@@ -9288,7 +9288,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 1350,
             "zastupitele": [
               {
@@ -9300,7 +9300,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "1. NEBUŠICKÉ SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ",
+            "id": 90,
             "hlasu": 3189,
             "zastupitele": [
               {
@@ -9327,7 +9327,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "NAŠE NEBUŠICE",
+            "id": 90,
             "hlasu": 696,
             "zastupitele": [
               {
@@ -9339,12 +9339,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 33,
             "zastupitelu": 0
           },
           {
-            "nazev": "NEBUŠICE",
+            "id": 90,
             "hlasu": 706,
             "zastupitele": [
               {
@@ -9356,7 +9356,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 523,
             "zastupitelu": 0
           }
@@ -9381,7 +9381,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 337,
             "zastupitele": [
               {
@@ -9403,7 +9403,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Sdružení nezávislých kandidátů v MČ Praha - Nedvězí",
+            "id": 90,
             "hlasu": 524,
             "zastupitele": [
               {
@@ -9450,7 +9450,7 @@
         "okrsky_spocteny": 4,
         "strany": [
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 6435,
             "zastupitele": [
               {
@@ -9472,7 +9472,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 5543,
             "zastupitele": [
               {
@@ -9494,7 +9494,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Sdružení občanů Petrovic",
+            "id": 90,
             "hlasu": 11043,
             "zastupitele": [
               {
@@ -9531,12 +9531,12 @@
             "zastupitelu": 6
           },
           {
-            "nazev": "Strana svobodných občanů",
+            "id": 714,
             "hlasu": 222,
             "zastupitelu": 0
           },
           {
-            "nazev": "\"STAROSTOVÉ A NEZÁVISLÍ\"",
+            "id": 166,
             "hlasu": 3982,
             "zastupitele": [
               {
@@ -9553,7 +9553,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 8382,
             "zastupitele": [
               {
@@ -9605,7 +9605,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ \"ZA KOPANINU KRÁSNĚJŠÍ\"",
+            "id": 90,
             "hlasu": 1042,
             "zastupitele": [
               {
@@ -9677,7 +9677,7 @@
         "okrsky_spocteny": 3,
         "strany": [
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 1338,
             "zastupitele": [
               {
@@ -9689,7 +9689,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 3910,
             "zastupitele": [
               {
@@ -9711,7 +9711,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 2230,
             "zastupitele": [
               {
@@ -9728,7 +9728,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Sdružení nezávislých kandidátů Řeporyje",
+            "id": 449,
             "hlasu": 5463,
             "zastupitele": [
               {
@@ -9780,7 +9780,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "\"STAROSTOVÉ A NEZÁVISLÍ\"",
+            "id": 166,
             "hlasu": 3207,
             "zastupitele": [
               {
@@ -9807,7 +9807,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 3233,
             "zastupitele": [
               {
@@ -9834,7 +9834,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 1325,
             "zastupitele": [
               {
@@ -9846,12 +9846,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 373,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická + nezávislí",
+            "id": 371,
             "hlasu": 1501,
             "zastupitele": [
               {
@@ -9888,7 +9888,7 @@
         "okrsky_spocteny": 2,
         "strany": [
           {
-            "nazev": "\"STAROSTOVÉ A NEZÁVISLÍ\"",
+            "id": 166,
             "hlasu": 9021,
             "zastupitele": [
               {
@@ -9935,7 +9935,7 @@
             "zastupitelu": 8
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 3170,
             "zastupitele": [
               {
@@ -9977,7 +9977,7 @@
         "okrsky_spocteny": 5,
         "strany": [
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 5738,
             "zastupitele": [
               {
@@ -9994,7 +9994,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 3829,
             "zastupitele": [
               {
@@ -10011,12 +10011,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 1805,
             "zastupitelu": 0
           },
           {
-            "nazev": "\"SDRUŽENÍ OBČANŮ SUCHDOLA\" (SOS)",
+            "id": 90,
             "hlasu": 21701,
             "zastupitele": [
               {
@@ -10098,7 +10098,7 @@
         "okrsky_spocteny": 2,
         "strany": [
           {
-            "nazev": "PRO LEPŠÍ OBEC",
+            "id": 90,
             "hlasu": 3697,
             "zastupitele": [
               {
@@ -10125,7 +10125,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Náš domov Šeberov - Hrnčíře",
+            "id": 90,
             "hlasu": 895,
             "zastupitele": [
               {
@@ -10137,7 +10137,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 907,
             "zastupitele": [
               {
@@ -10149,7 +10149,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 1686,
             "zastupitele": [
               {
@@ -10161,12 +10161,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "DOBŘÍ SOUSEDÉ",
+            "id": 90,
             "hlasu": 510,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 505,
             "zastupitelu": 0
           }
@@ -10191,12 +10191,12 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 287,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 2523,
             "zastupitele": [
               {
@@ -10228,7 +10228,7 @@
             "zastupitelu": 5
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 986,
             "zastupitele": [
               {
@@ -10265,7 +10265,7 @@
         "okrsky_spocteny": 1,
         "strany": [
           {
-            "nazev": "TROJSKÝ KŮŇ 2010",
+            "id": 90,
             "hlasu": 3179,
             "zastupitele": [
               {
@@ -10307,7 +10307,7 @@
             "zastupitelu": 7
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 751,
             "zastupitele": [
               {
@@ -10319,7 +10319,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 902,
             "zastupitele": [
               {
@@ -10351,7 +10351,7 @@
         "okrsky_spocteny": 3,
         "strany": [
           {
-            "nazev": "ALIANCE JIHOVÝCHOD",
+            "id": 90,
             "hlasu": 2150,
             "zastupitele": [
               {
@@ -10368,7 +10368,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "NEZÁVISLÍ PRO ÚJEZD A KATEŘINKY",
+            "id": 90,
             "hlasu": 1761,
             "zastupitele": [
               {
@@ -10380,7 +10380,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 1788,
             "zastupitele": [
               {
@@ -10397,7 +10397,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "\"SPOLEČNÁ BUDOUCNOST ÚJEZD - KATEŘINKY\"",
+            "id": 90,
             "hlasu": 988,
             "zastupitele": [
               {
@@ -10409,12 +10409,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+            "id": 1,
             "hlasu": 119,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 2760,
             "zastupitele": [
               {
@@ -10456,7 +10456,7 @@
         "okrsky_spocteny": 2,
         "strany": [
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 1830,
             "zastupitele": [
               {
@@ -10473,7 +10473,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 2726,
             "zastupitele": [
               {
@@ -10495,7 +10495,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 1564,
             "zastupitele": [
               {
@@ -10512,12 +10512,12 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 469,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 3885,
             "zastupitele": [
               {
@@ -10564,12 +10564,12 @@
         "okrsky_spocteny": 2,
         "strany": [
           {
-            "nazev": "Strana Práv Občanů ZEMANOVCI",
+            "id": 724,
             "hlasu": 931,
             "zastupitelu": 0
           },
           {
-            "nazev": "Sdružení nezávislých kandidátů - Sdružení pro Vinoř",
+            "id": 90,
             "hlasu": 3594,
             "zastupitele": [
               {
@@ -10591,17 +10591,17 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Věci veřejné",
+            "id": 144,
             "hlasu": 663,
             "zastupitelu": 0
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 349,
             "zastupitelu": 0
           },
           {
-            "nazev": "Křesťanská a demokratická unie-Československá strana lidová a nezávislí kandidáti",
+            "id": 355,
             "hlasu": 1186,
             "zastupitele": [
               {
@@ -10613,12 +10613,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Sdružení Komunistické strany Čech a Moravy a nezávislých kandidátů",
+            "id": 387,
             "hlasu": 995,
             "zastupitelu": 0
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 1485,
             "zastupitele": [
               {
@@ -10630,7 +10630,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 6419,
             "zastupitele": [
               {
@@ -10687,7 +10687,7 @@
         "okrsky_spocteny": 10,
         "strany": [
           {
-            "nazev": "NEZÁVISLÍ",
+            "id": 88,
             "hlasu": 12200,
             "zastupitele": [
               {
@@ -10714,7 +10714,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Strana zelených",
+            "id": 5,
             "hlasu": 7303,
             "zastupitele": [
               {
@@ -10731,7 +10731,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 8760,
             "zastupitele": [
               {
@@ -10748,7 +10748,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "TOP 09",
+            "id": 721,
             "hlasu": 9530,
             "zastupitele": [
               {
@@ -10770,7 +10770,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "Nová Zbraslav - Věc veřejná",
+            "id": 664,
             "hlasu": 4021,
             "zastupitele": [
               {
@@ -10782,7 +10782,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 11745,
             "zastupitele": [
               {
@@ -10809,7 +10809,7 @@
             "zastupitelu": 4
           },
           {
-            "nazev": "Komunistická strana Čech a Moravy",
+            "id": 47,
             "hlasu": 3138,
             "zastupitele": [
               {
@@ -10841,7 +10841,7 @@
         "okrsky_spocteny": 4,
         "strany": [
           {
-            "nazev": "Sdružení nezávislých kandidátů, občanů ze Zličína, Sobína, Zličínských zahrad, Zličínského dvora, Metropole a Hevlínské",
+            "id": 90,
             "hlasu": 6977,
             "zastupitele": [
               {
@@ -10873,7 +10873,7 @@
             "zastupitelu": 5
           },
           {
-            "nazev": "\"Současnost a budoucnost Zličína a Sobína\"",
+            "id": 90,
             "hlasu": 3600,
             "zastupitele": [
               {
@@ -10895,7 +10895,7 @@
             "zastupitelu": 3
           },
           {
-            "nazev": "SDRUŽENÍ PRO NOVÝ ZLIČÍN A SOBÍN",
+            "id": 90,
             "hlasu": 3480,
             "zastupitele": [
               {
@@ -10912,7 +10912,7 @@
             "zastupitelu": 2
           },
           {
-            "nazev": "Občané pro Zličín a Sobín",
+            "id": 90,
             "hlasu": 2381,
             "zastupitele": [
               {
@@ -10924,12 +10924,12 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Česká strana sociálně demokratická",
+            "id": 7,
             "hlasu": 76,
             "zastupitelu": 0
           },
           {
-            "nazev": "Občané obci obec občanům",
+            "id": 90,
             "hlasu": 1288,
             "zastupitele": [
               {
@@ -10941,7 +10941,7 @@
             "zastupitelu": 1
           },
           {
-            "nazev": "Občanská demokratická strana",
+            "id": 53,
             "hlasu": 4286,
             "zastupitele": [
               {

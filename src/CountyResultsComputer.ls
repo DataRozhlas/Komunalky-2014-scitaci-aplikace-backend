@@ -22,7 +22,7 @@ module.exports.computeCountyResults = (xml) ->
           obvodOut.okrsky_spocteny = parseInt obvod.VYSLEDEK.0.UCAST.0.$.OKRSKY_ZPRAC,     10
           obvodOut.strany = obvod.VYSLEDEK.0.VOLEBNI_STRANA.map (strana) ->
             stranaOut =
-              nazev: strana.$.NAZEV_STRANY
+              id: parseInt strana.$.VSTRANA
               hlasu: parseInt strana.$.HLASY, 10
             if strana.ZASTUPITEL?length
               stranaOut.zastupitele = strana.ZASTUPITEL.map ({$})->
