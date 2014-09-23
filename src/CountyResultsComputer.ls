@@ -2,9 +2,8 @@ require! {
   dhondt
   xml2js
 }
-module.exports.compute = (data, cb) ->
-  (err, xml) <~ xml2js.parseString data
-  counties = xml.VYSLEDKY_OBCE_OKRES.OBEC.map (obec) ->
+module.exports.computeCountyResults = (xml) ->
+  xml.VYSLEDKY_OBCE_OKRES.OBEC.map (obec) ->
     out =
       kod: parseInt obec.$.KODZASTUP, 10
       voleno: parseInt obec.$.VOLENO_ZASTUP, 10
@@ -30,4 +29,3 @@ module.exports.compute = (data, cb) ->
           * voteAccessor   : (.hlasu)
             resultProperty : "zastupitelu"
     out
-  cb null, {counties}
