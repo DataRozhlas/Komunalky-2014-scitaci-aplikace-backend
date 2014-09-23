@@ -1,7 +1,7 @@
 require! {
   dhondt
 }
-module.exports.computeCountyResults = (xml) ->
+module.exports.computeCouncilResults = (xml) ->
   xml.VYSLEDKY_OBCE_OKRES.OBEC.map (obec) ->
     obecOut =
       kod: parseInt obec.$.KODZASTUP, 10
