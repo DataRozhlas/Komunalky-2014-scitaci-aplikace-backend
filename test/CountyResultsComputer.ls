@@ -3,6 +3,7 @@ require! {
   xml2js
   expect: 'expect.js'
   "../src/CountyResultsComputer.ls"
+  # fs
 }
 
 describe 'CountyResultsComputer' (_) ->
@@ -45,4 +46,7 @@ describe 'CountyResultsComputer' (_) ->
     expect counties.0.obvody.0.strany.0 .to.have.property \zastupitele
     expect counties.0.obvody.0.strany.0.zastupitele .to.have.length 2
     expect counties.0.obvody.0.strany.0.zastupitele.0 .to.have.property \prijmeni \Dienstbier
+    # fs.writeFileSync do
+    #   "#__dirname/data/computeCountyResults.json"
+    #   JSON.stringify counties, 1, 2
     done!
