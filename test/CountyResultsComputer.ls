@@ -24,6 +24,7 @@ describe 'CountyResultsComputer' (_) ->
     expect counties.0.strany .to.have.length 2
     expect counties.0.strany.0 .to.have.property \zastupitelu 3
     done!
+
   it 'should return complete candidate stats for counties' (done) ->
     counties = CountyResultsComputer.computeCountyResults xml_secteno
     expect counties .to.have.length 85

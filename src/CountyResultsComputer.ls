@@ -1,11 +1,11 @@
 require! {
   dhondt
-  xml2js
 }
 module.exports.computeCountyResults = (xml) ->
   xml.VYSLEDKY_OBCE_OKRES.OBEC.map (obec) ->
     out =
       kod: parseInt obec.$.KODZASTUP, 10
+      typ: obec.$.OZNAC_TYPU.toLowerCase!
       voleno: parseInt obec.$.VOLENO_ZASTUP, 10
     if obec.VYSLEDEK?length
       out.volicu: parseInt obec.VYSLEDEK.0.UCAST.0.$.ZAPSANI_VOLICI, 10
