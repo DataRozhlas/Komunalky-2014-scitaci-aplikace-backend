@@ -15,6 +15,7 @@
 /www/data.js
 /*.sublime-workspace
 azure-upload-settings.json
+/test/config.ls
 
 /data/obce-mc-shp/*
 /data/senat_obvody.qgs
