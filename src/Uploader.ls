@@ -1,10 +1,9 @@
 require! {
   azure: "azure-storage"
-  events.EventEmitter
   zlib
   streamifier
 }
-module.exports = class Uploader extends EventEmitter
+module.exports = class Uploader
   (@config) ->
     @blobService = azure.createBlobService do
       @config.storage_name
@@ -24,7 +23,6 @@ module.exports = class Uploader extends EventEmitter
       stream
       compressed.length
       @blobOptions
-    @emit \uploaded muniId
     cb? err
 
 

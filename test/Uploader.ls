@@ -8,15 +8,11 @@ require! {
 data = field1: \value1 feild2: Math.random!
 uploadedList = []
 uploader = new Uploader config.azure
-  ..on \uploaded -> uploadedList.push it
 describe "Uploader", (_) ->
   it 'should upload a results file as JSON' (done) ->
     (err) <~ uploader.upload 9999, data
     expect err .to.be null
     done!
-
-  it 'should emit Uploaded events with muniIds' ->
-    expect uploadedList .to.eql [9999]
 
   it 'should set correct CORS headers' (done) ->
     (err) <~ uploader.setCors
