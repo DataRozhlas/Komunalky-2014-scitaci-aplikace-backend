@@ -26,13 +26,14 @@ describe "Redis notifier" (_) ->
     done!
 
   it 'should send a redis message' (done) ->
-    MunicipalityRedisNotifier.notify redisClient, 9999, data
+    MunicipalityRedisNotifier.notify redisClient, 9999
     redisSubscriber.on \message (channel, message) ->
       expect channel .to.eql \update
       expect message .to.eql \9999
       done!
 
   it 'should update current okrsky_spocteno' (done) ->
+    MunicipalityRedisNotifier.update redisClient, data
     (err, value) <~ redisClient.get "sum:9999:obec"
     expect value .to.eql 20
     (err, value) <~ redisClient.get "sum:9998:mcmo"
