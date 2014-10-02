@@ -15,6 +15,7 @@ module.exports = class Uploader
     @running = 0
     @queue = []
     @queueAssoc = {}
+    @uploadCounter = 0
     setInterval @~report, 1000
 
   upload: (muniId, data, cb) ->
@@ -43,13 +44,13 @@ module.exports = class Uploader
       stream
       compressed.length
       @blobOptions
-
+    @uploadCounter++
     cb? err
     --@running
     @uploadNext!
 
   report: ->
-    console.log "Uploader queuing #{@queue.length} at #{@running} threads" if @queue.length
+    console.log "Uploader queuing #{@queue.length} at #{@running} threads, #{@uploadCounter} uploaded" if @queue.length
 
   setCors: (cb) ->
     serviceProperties = {}
