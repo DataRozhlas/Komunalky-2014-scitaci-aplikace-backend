@@ -16,6 +16,7 @@ module.exports = class Uploader
     @queue = []
     @queueAssoc = {}
     @uploadCounter = 0
+    @lastReport = 0
     setInterval @~report, 1000
 
   upload: (muniId, data, cb) ->
@@ -50,7 +51,10 @@ module.exports = class Uploader
     @uploadNext!
 
   report: ->
-    console.log "Uploader queuing #{@queue.length} at #{@running} threads, #{@uploadCounter} uploaded" if @queue.length
+    len = @queue.length
+    if @queue.length
+      console.log "Uploader queuing #{len} at #{@running} threads, #{@uploadCounter} uploaded, #{len - @lastReport}"
+    @lastReport = len
 
   setCors: (cb) ->
     serviceProperties = {}

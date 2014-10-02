@@ -8,7 +8,7 @@ require! {
 module.exports = class DownloadSimulator extends EventEmitter
   ->
     @currentOffset = 0
-    @interval = 1000
+    @interval = 100
     (err, files) <~ fs.readdir "#__dirname/../data/output"
     files .= filter -> it[0] != '.'
     records = files.map ->
@@ -29,6 +29,7 @@ module.exports = class DownloadSimulator extends EventEmitter
     setInterval @~loadNext, @interval
 
   loadNext: ->
+    @currentOffset %= @offsets.length
     records = @offsets[@currentOffset]
     @currentOffset++
     return if not records
@@ -37,8 +38,10 @@ module.exports = class DownloadSimulator extends EventEmitter
       [type, subtype, obec] = noDate.split '-'
       (err, content) <~ fs.readFile "#__dirname/../data/output/#name"
       (err, xml) <~ xml2js.parseString content
-      console.log 'emitting' type, subtype
+      # console.log name
       @emit do
         [type, subtype].join '-'
         xml
+        null
+        @currentOffset
 
