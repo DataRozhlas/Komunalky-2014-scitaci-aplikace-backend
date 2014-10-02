@@ -21,8 +21,6 @@ module.exports = class VolbyDowloader extends EventEmitter
         interval: 60
         type: \senat-vysledky
         short: \senat-vysledky
-    @sources = []
-    okresy.length = 1
     okresy.forEach ~>
       @sources.push do
         url: "#{@config.addr.komunalky}/vysledky_obce_okres?datumvoleb=#{@config.datum_voleb}&nuts=#{it}"
