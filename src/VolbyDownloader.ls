@@ -37,7 +37,7 @@ module.exports = class VolbyDowloader extends EventEmitter
       uri: source.url
       encoding: null
     (err, response, body) <~ request.get opts
-    console.log "Downloaded #{source.short}"
+    # console.log "Downloaded #{source.short}"
     if err or not body.length
       if err
         console.error "Error downloading #{opts.uri}", err
@@ -65,7 +65,7 @@ module.exports = class VolbyDowloader extends EventEmitter
       if interval < @minimumInterval then interval = @minimumInterval
       niceTime = moment!format "YYYY-MM-DD-HH-mm-ss"
       @downloadSourceIn source, interval + 2
-      console.log "Parsed #{source.short}. Next download in #{interval + 2}"
+      # console.log "Parsed #{source.short}. Next download in #{interval + 2}"
       @emit do
         source.type
         xml

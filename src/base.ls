@@ -29,15 +29,14 @@ downloader
   ..start!
   ..on \komunalky-obec (xml) ->
     councils = CouncilResultsComputer.computeCouncilResults xml
-    console.log "Downloaded #{councils.length} councils"
     (err, updatedCouncils) <~ CouncilUpdateDetector.filterUpdated redisClient, councils
     return console.error err if err
-    console.log "#{updatedCouncils.length} councils are updated"
     (err, munisChanged) <~ CouncilToMunicipality.save redisClient, updatedCouncils
     return console.error err if err
-    console.log "#{munisChanged.length} munis are changed"
+    console.log "Downloaded #{councils.length} councils, #{updatedCouncils.length} updated, #{munisChanged.length} municipalities"
     municipalityCombiner.update munisChanged
 
 municipalityCombiner.on \municipality (muniId, outputData, allData) ->
+  MunicipalityRedisNotifier.update redisClient, allData
   <~ uploader.upload muniId, outputData
-  MunicipalityRedisNotifier.notify redisClient, muniId, allData
+  MunicipalityRedisNotifier.notify redisClient, muniId

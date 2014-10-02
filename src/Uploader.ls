@@ -21,6 +21,7 @@ module.exports = class Uploader
     # console.log muniId
     json = JSON.stringify data
     if @queueAssoc[muniId] != void
+      # console.log "Updated #muniId"
       @queueAssoc[muniId][1] = json
       @queueAssoc[muniId][2] = cb
     else
@@ -34,6 +35,7 @@ module.exports = class Uploader
     ++@running
     [muniId, json, cb] = @queue.shift!
     @queueAssoc[muniId] = void
+    <~ setTimeout _, 800
     (err, compressed) <~ zlib.gzip json
     stream = streamifier.createReadStream compressed
     (err) <~ @blobService.createBlockBlobFromStream do

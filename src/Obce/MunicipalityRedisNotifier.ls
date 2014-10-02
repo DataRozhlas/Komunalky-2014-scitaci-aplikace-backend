@@ -1,6 +1,9 @@
 require! async
-module.exports.notify = (redis, muniId, data, cb) ->
+module.exports.notify = (redis, muniId, cb) ->
   redis.publish "update" muniId
+  cb?!
+
+module.exports.update = (redis, data, cb) ->
   typy = []
   for typ, values of data
     if values.okrsky_spocteno
