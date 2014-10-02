@@ -201,17 +201,7 @@ task \build ->
   combine-scripts compression: no
 
 task \deploy ->
-  <~ async.parallel do
-    * download-external-scripts
-      download-external-data
-      download-external-styles
-      # build-all-server-scripts!
-      # refresh-manifest!
-  <~ build-styles compression: yes
-  <~ build-all-scripts
-  <~ combine-scripts compression: yes
-  <~ gzip-files!
-  inject-index!
+  <~ build-all-server-scripts
 
 task \build-styles ->
   t0 = Date.now!
