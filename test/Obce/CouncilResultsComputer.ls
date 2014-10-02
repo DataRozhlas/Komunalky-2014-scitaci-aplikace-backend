@@ -2,15 +2,14 @@ require! {
   fs
   xml2js
   expect: 'expect.js'
-  "../src/CouncilResultsComputer.ls"
-  # fs
+  "../../src/Obce/CouncilResultsComputer.ls"
 }
 
 describe 'CouncilResultsComputer' (_) ->
   xml_secteno = null
   xml_pred    = null
   before (done) ->
-    txt_secteno = fs.readFileSync "#__dirname/data/CZ0100.xml" .toString!
+    txt_secteno = fs.readFileSync "#__dirname/../data/CZ0100.xml" .toString!
     txt_pred    = txt_secteno.replace /<ZASTUPITEL(.)*\/>/g ''
     (err, xml) <~ xml2js.parseString txt_secteno
     xml_secteno := xml

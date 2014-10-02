@@ -1,5 +1,5 @@
 require! {
-  councilToMunicipality: '../data/kod-zastup-to-obec.json'
+  councilToMunicipality: '../../data/kod-zastup-to-obec.json'
   async
 }
 module.exports.save = (redis, councils, cb) ->

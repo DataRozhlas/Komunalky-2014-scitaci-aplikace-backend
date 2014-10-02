@@ -1,8 +1,8 @@
 require! {
   expect: 'expect.js'
   redis
-  './config.ls'
-  '../src/MunicipalityRedisNotifier.ls'
+  '../config.ls'
+  '../../src/Obce/MunicipalityRedisNotifier.ls'
 }
 
 describe "Redis notifier" (_) ->

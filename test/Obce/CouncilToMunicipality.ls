@@ -2,10 +2,10 @@ require! {
   expect: 'expect.js'
   redis
   async
-  './config.ls'
-  '../src/CouncilToMunicipality.ls'
-  './data/computeCouncilResults.json'
-  councilToMunicipalityAssoc: '../data/kod-zastup-to-obec.json'
+  '../config.ls'
+  '../../src/Obce/CouncilToMunicipality.ls'
+  '../data/computeCouncilResults.json'
+  councilToMunicipalityAssoc: '../../data/kod-zastup-to-obec.json'
 
 }
 

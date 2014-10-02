@@ -40,6 +40,6 @@ module.exports = class MunicipalityCombiner extends EventEmitter
 
 
   loadGeoJson: (muniId, cb) ->
-    (err, data) <~ fs.readFile "#__dirname/../data/geojsons/#muniId.geo.json"
+    (err, data) <~ fs.readFile "#__dirname/../../data/geojsons/#muniId.geo.json"
     return cb err if err
     cb null JSON.parse data

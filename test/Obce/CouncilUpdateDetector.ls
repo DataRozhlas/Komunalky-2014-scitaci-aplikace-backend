@@ -2,9 +2,9 @@ require! {
   expect: 'expect.js'
   redis
   async
-  './config.ls'
-  '../src/CouncilUpdateDetector.ls'
-  './data/computeCouncilResults.json'
+  '../config.ls'
+  '../../src/Obce/CouncilUpdateDetector.ls'
+  '../data/computeCouncilResults.json'
 }
 
 describe 'CouncilUpdateDetector' (_) ->
