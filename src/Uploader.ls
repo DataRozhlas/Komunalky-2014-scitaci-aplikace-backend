@@ -35,7 +35,6 @@ module.exports = class Uploader
     ++@running
     [muniId, json, cb] = @queue.shift!
     @queueAssoc[muniId] = void
-    <~ setTimeout _, 800
     (err, compressed) <~ zlib.gzip json
     stream = streamifier.createReadStream compressed
     (err) <~ @blobService.createBlockBlobFromStream do
