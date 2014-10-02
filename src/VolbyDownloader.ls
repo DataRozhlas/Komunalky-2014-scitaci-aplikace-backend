@@ -70,6 +70,7 @@ module.exports = class VolbyDowloader extends EventEmitter
         source.type
         xml
         data
+        @sources.indexOf source
       fs.writeFile "#__dirname/../data/output/#{niceTime}-#{source.short}", data
 
     catch ex
