@@ -6,7 +6,7 @@ module.exports.filterUpdated = (redis, councils, cb) ->
     num = parseInt num, 10
     cb do
       null
-      num != council.okrsky_spocteny
+      num != council.okrsky_spocteno
   cb do
     null
     councils.filter (council, index) ->  isIncremented[index]

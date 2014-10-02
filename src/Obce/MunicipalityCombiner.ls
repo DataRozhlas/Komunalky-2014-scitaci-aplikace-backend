@@ -9,11 +9,11 @@ module.exports = class MunicipalityCombiner extends EventEmitter
 
   update: (muniIds, cb) ->
     <~ async.eachLimit muniIds, 10, (muniId, cb) ~>
-      (err, outputData) <~ @combine muniId
+      (err, outputData, allData) <~ @combine muniId
       if err
         console.error err
         return
-      @emit \municipality muniId, outputData
+      @emit \municipality muniId, outputData, allData
       cb!
     cb?!
 
@@ -23,20 +23,22 @@ module.exports = class MunicipalityCombiner extends EventEmitter
       * (cb) ~> @loadVysledky muniId, cb
         (cb) ~> @loadGeoJson muniId, cb
     return cb err if err
-    [vysledky, geojson] = results
-    vysledky.geojson = geojson
-    cb null vysledky
+    [{outputData, allData}, geojson] = results
+    outputData.geojson = geojson
+    cb null outputData, allData
 
 
   loadVysledky: (muniId, cb) ->
     (err, hash) <~ @redis.hgetall "results:#muniId"
     return cb err if err
-    output = {}
+    outputData = {}
+    allData = {}
     for typ, data of hash
-      output[typ] = JSON.parse data
-      delete output[typ].typ
-      delete output[typ].kod
-    cb null output
+      outputData[typ] = JSON.parse data
+      allData[typ] = JSON.parse data
+      delete outputData[typ].typ
+      delete outputData[typ].kod
+    cb null, {outputData, allData}
 
 
   loadGeoJson: (muniId, cb) ->

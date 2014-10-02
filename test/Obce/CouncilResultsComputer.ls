@@ -38,9 +38,9 @@ describe 'CouncilResultsComputer' (_) ->
     councils = CouncilResultsComputer.computeCouncilResults xml_secteno
     expect councils .to.have.length 58
     expect councils.0 .to.have.property \obvody
-    expect councils.0 .to.have.property \okrsky_spocteny 1130
+    expect councils.0 .to.have.property \okrsky_spocteno 1130
     expect councils.0.obvody .to.have.length 7
-    expect councils.0.obvody.0 .to.have.property \okrsky_spocteny 162
+    expect councils.0.obvody.0 .to.have.property \okrsky_spocteno 162
     expect councils.0.obvody.0 .to.have.property \strany
     expect councils.0.obvody.0.strany .to.have.length 17
     expect councils.0.obvody.0.strany.0 .to.have.property \zastupitele

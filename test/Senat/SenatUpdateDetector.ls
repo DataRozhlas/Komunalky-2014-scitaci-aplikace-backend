@@ -13,7 +13,7 @@ describe 'SenatUpdateDetector' (_) ->
     <~ redisClient.select config.redis.db
     <~ redisClient.flushdb!
     done!
-  senatResults = {okrsky_spocteny: 5}
+  senatResults = {okrsky_spocteno: 5}
 
   it 'should detect change on first insert' (done) ->
     (err, updated) <~ SenatUpdateDetector.isUpdated redisClient, senatResults
@@ -29,7 +29,7 @@ describe 'SenatUpdateDetector' (_) ->
     done!
 
   it 'should detect the changed record' (done) ->
-    senatResults.okrsky_spocteny++
+    senatResults.okrsky_spocteno++
     (err, updated) <~ SenatUpdateDetector.isUpdated redisClient, senatResults
     expect err .to.be null
     expect updated .to.be true

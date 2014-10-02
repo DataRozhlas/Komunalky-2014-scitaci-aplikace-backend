@@ -11,6 +11,7 @@ describe 'CouncilUpdateDetector' (_) ->
   redisClient = null
   before (done) ->
     redisClient := redis.createClient config.redis.port, config.redis.host
+    <~ redisClient.auth config.redis.key
     <~ redisClient.select config.redis.db
     <~ redisClient.flushdb!
     done!
@@ -26,7 +27,7 @@ describe 'CouncilUpdateDetector' (_) ->
       <~ async.eachLimit computeCouncilResults, 20, (council, cb) ->
         redisClient.set do
           "sum:#{council.kod}:#{council.typ}"
-          council.okrsky_spocteny
+          council.okrsky_spocteno
           cb
       done!
 
@@ -38,7 +39,7 @@ describe 'CouncilUpdateDetector' (_) ->
 
   describe "Updated insert" (_) ->
     it 'should detect the changed record' (done) ->
-      computeCouncilResults.2.okrsky_spocteny++
+      computeCouncilResults.2.okrsky_spocteno++
       (err, updated) <~ CouncilUpdateDetector.filterUpdated redisClient, computeCouncilResults
       expect updated .to.have.length 1
       expect updated.0 .to.be computeCouncilResults.2

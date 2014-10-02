@@ -14,6 +14,7 @@ describe 'CouncilToMunicipality' (_) ->
   munisChanged = null
   before (done) ->
     redisClient := redis.createClient config.redis.port, config.redis.host
+    <~ redisClient.auth config.redis.key
     <~ redisClient.select config.redis.db
     <~ redisClient.flushdb!
     done!

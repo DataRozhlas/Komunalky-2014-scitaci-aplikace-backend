@@ -6,14 +6,14 @@
     "volicu": 944866,
     "volilo": 419171,
     "okrsky_celkem": 1130,
-    "okrsky_spocteny": 1130,
+    "okrsky_spocteno": 1130,
     "obvody": [
       {
         "voleno": 9,
         "volicu": 129653,
         "volilo": 63383,
         "okrsky_celkem": 162,
-        "okrsky_spocteny": 162,
+        "okrsky_spocteno": 162,
         "strany": [
           {
             "id": 7,
@@ -158,7 +158,7 @@
         "volicu": 124868,
         "volilo": 56028,
         "okrsky_celkem": 158,
-        "okrsky_spocteny": 158,
+        "okrsky_spocteno": 158,
         "strany": [
           {
             "id": 744,
@@ -313,7 +313,7 @@
         "volicu": 145980,
         "volilo": 62917,
         "okrsky_celkem": 181,
-        "okrsky_spocteny": 181,
+        "okrsky_spocteno": 181,
         "strany": [
           {
             "id": 137,
@@ -465,7 +465,7 @@
         "volicu": 140470,
         "volilo": 59418,
         "okrsky_celkem": 168,
-        "okrsky_spocteny": 168,
+        "okrsky_spocteno": 168,
         "strany": [
           {
             "id": 7,
@@ -612,7 +612,7 @@
         "volicu": 138691,
         "volilo": 58970,
         "okrsky_celkem": 175,
-        "okrsky_spocteny": 175,
+        "okrsky_spocteno": 175,
         "strany": [
           {
             "id": 1,
@@ -772,7 +772,7 @@
         "volicu": 132637,
         "volilo": 55868,
         "okrsky_celkem": 155,
-        "okrsky_spocteny": 155,
+        "okrsky_spocteno": 155,
         "strany": [
           {
             "id": 144,
@@ -929,7 +929,7 @@
         "volicu": 132567,
         "volilo": 62587,
         "okrsky_celkem": 131,
-        "okrsky_spocteny": 131,
+        "okrsky_spocteno": 131,
         "strany": [
           {
             "id": 716,
@@ -1093,14 +1093,14 @@
     "volicu": 23152,
     "volilo": 10890,
     "okrsky_celkem": 28,
-    "okrsky_spocteny": 28,
+    "okrsky_spocteno": 28,
     "obvody": [
       {
         "voleno": 35,
         "volicu": 23152,
         "volilo": 10890,
         "okrsky_celkem": 28,
-        "okrsky_spocteny": 28,
+        "okrsky_spocteno": 28,
         "strany": [
           {
             "id": 144,
@@ -1358,14 +1358,14 @@
     "volicu": 86276,
     "volilo": 37275,
     "okrsky_celkem": 109,
-    "okrsky_spocteny": 109,
+    "okrsky_spocteno": 109,
     "obvody": [
       {
         "voleno": 9,
         "volicu": 20894,
         "volilo": 9280,
         "okrsky_celkem": 27,
-        "okrsky_spocteny": 27,
+        "okrsky_spocteno": 27,
         "strany": [
           {
             "id": 721,
@@ -1482,7 +1482,7 @@
         "volicu": 21380,
         "volilo": 9988,
         "okrsky_celkem": 26,
-        "okrsky_spocteny": 26,
+        "okrsky_spocteno": 26,
         "strany": [
           {
             "id": 750,
@@ -1594,7 +1594,7 @@
         "volicu": 22785,
         "volilo": 9697,
         "okrsky_celkem": 28,
-        "okrsky_spocteny": 28,
+        "okrsky_spocteno": 28,
         "strany": [
           {
             "id": 5,
@@ -1710,7 +1710,7 @@
         "volicu": 21217,
         "volilo": 8310,
         "okrsky_celkem": 28,
-        "okrsky_spocteny": 28,
+        "okrsky_spocteno": 28,
         "strany": [
           {
             "id": 47,
@@ -1828,14 +1828,14 @@
     "volicu": 62637,
     "volilo": 28610,
     "okrsky_celkem": 62,
-    "okrsky_spocteny": 62,
+    "okrsky_spocteno": 62,
     "obvody": [
       {
         "voleno": 39,
         "volicu": 62637,
         "volilo": 28610,
         "okrsky_celkem": 62,
-        "okrsky_spocteny": 62,
+        "okrsky_spocteno": 62,
         "strany": [
           {
             "id": 53,
@@ -2115,14 +2115,14 @@
     "volicu": 44127,
     "volilo": 18378,
     "okrsky_celkem": 50,
-    "okrsky_spocteny": 50,
+    "okrsky_spocteno": 50,
     "obvody": [
       {
         "voleno": 35,
         "volicu": 44127,
         "volilo": 18378,
         "okrsky_celkem": 50,
-        "okrsky_spocteny": 50,
+        "okrsky_spocteno": 50,
         "strany": [
           {
             "id": 47,
@@ -2357,14 +2357,14 @@
     "volicu": 42523,
     "volilo": 17576,
     "okrsky_celkem": 50,
-    "okrsky_spocteny": 50,
+    "okrsky_spocteno": 50,
     "obvody": [
       {
         "voleno": 35,
         "volicu": 42523,
         "volilo": 17576,
         "okrsky_celkem": 50,
-        "okrsky_spocteny": 50,
+        "okrsky_spocteno": 50,
         "strany": [
           {
             "id": 144,
@@ -2616,14 +2616,14 @@
     "volicu": 32328,
     "volilo": 11171,
     "okrsky_celkem": 31,
-    "okrsky_spocteny": 31,
+    "okrsky_spocteno": 31,
     "obvody": [
       {
         "voleno": 31,
         "volicu": 32328,
         "volilo": 11171,
         "okrsky_celkem": 31,
-        "okrsky_spocteny": 31,
+        "okrsky_spocteno": 31,
         "strany": [
           {
             "id": 5,
@@ -2843,14 +2843,14 @@
     "volicu": 23569,
     "volilo": 9751,
     "okrsky_celkem": 21,
-    "okrsky_spocteny": 21,
+    "okrsky_spocteno": 21,
     "obvody": [
       {
         "voleno": 7,
         "volicu": 5351,
         "volilo": 2073,
         "okrsky_celkem": 4,
-        "okrsky_spocteny": 4,
+        "okrsky_spocteno": 4,
         "strany": [
           {
             "id": 53,
@@ -2937,7 +2937,7 @@
         "volicu": 6117,
         "volilo": 2354,
         "okrsky_celkem": 5,
-        "okrsky_spocteny": 5,
+        "okrsky_spocteno": 5,
         "strany": [
           {
             "id": 721,
@@ -3024,7 +3024,7 @@
         "volicu": 6362,
         "volilo": 2728,
         "okrsky_celkem": 7,
-        "okrsky_spocteny": 7,
+        "okrsky_spocteno": 7,
         "strany": [
           {
             "id": 53,
@@ -3101,7 +3101,7 @@
         "volicu": 5739,
         "volilo": 2596,
         "okrsky_celkem": 5,
-        "okrsky_spocteny": 5,
+        "okrsky_spocteno": 5,
         "strany": [
           {
             "id": 53,
@@ -3185,14 +3185,14 @@
     "volicu": 6095,
     "volilo": 3337,
     "okrsky_celkem": 8,
-    "okrsky_spocteny": 8,
+    "okrsky_spocteno": 8,
     "obvody": [
       {
         "voleno": 15,
         "volicu": 6095,
         "volilo": 3337,
         "okrsky_celkem": 8,
-        "okrsky_spocteny": 8,
+        "okrsky_spocteno": 8,
         "strany": [
           {
             "id": 53,
@@ -3318,14 +3318,14 @@
     "volicu": 19463,
     "volilo": 7831,
     "okrsky_celkem": 18,
-    "okrsky_spocteny": 18,
+    "okrsky_spocteno": 18,
     "obvody": [
       {
         "voleno": 23,
         "volicu": 19463,
         "volilo": 7831,
         "okrsky_celkem": 18,
-        "okrsky_spocteny": 18,
+        "okrsky_spocteno": 18,
         "strany": [
           {
             "id": 144,
@@ -3512,14 +3512,14 @@
     "volicu": 12472,
     "volilo": 5215,
     "okrsky_celkem": 12,
-    "okrsky_spocteny": 12,
+    "okrsky_spocteno": 12,
     "obvody": [
       {
         "voleno": 21,
         "volicu": 12472,
         "volilo": 5215,
         "okrsky_celkem": 12,
-        "okrsky_spocteny": 12,
+        "okrsky_spocteno": 12,
         "strany": [
           {
             "id": 47,
@@ -3682,14 +3682,14 @@
     "volicu": 4648,
     "volilo": 2711,
     "okrsky_celkem": 6,
-    "okrsky_spocteny": 6,
+    "okrsky_spocteno": 6,
     "obvody": [
       {
         "voleno": 15,
         "volicu": 4648,
         "volilo": 2711,
         "okrsky_celkem": 6,
-        "okrsky_spocteny": 6,
+        "okrsky_spocteno": 6,
         "strany": [
           {
             "id": 144,
@@ -3822,14 +3822,14 @@
     "volicu": 36571,
     "volilo": 15928,
     "okrsky_celkem": 45,
-    "okrsky_spocteny": 45,
+    "okrsky_spocteno": 45,
     "obvody": [
       {
         "voleno": 35,
         "volicu": 36571,
         "volilo": 15928,
         "okrsky_celkem": 45,
-        "okrsky_spocteny": 45,
+        "okrsky_spocteno": 45,
         "strany": [
           {
             "id": 717,
@@ -4087,14 +4087,14 @@
     "volicu": 11242,
     "volilo": 5801,
     "okrsky_celkem": 12,
-    "okrsky_spocteny": 12,
+    "okrsky_spocteno": 12,
     "obvody": [
       {
         "voleno": 25,
         "volicu": 11242,
         "volilo": 5801,
         "okrsky_celkem": 12,
-        "okrsky_spocteny": 12,
+        "okrsky_spocteno": 12,
         "strany": [
           {
             "id": 53,
@@ -4286,14 +4286,14 @@
     "volicu": 7423,
     "volilo": 3669,
     "okrsky_celkem": 7,
-    "okrsky_spocteny": 7,
+    "okrsky_spocteno": 7,
     "obvody": [
       {
         "voleno": 17,
         "volicu": 7423,
         "volilo": 3669,
         "okrsky_celkem": 7,
-        "okrsky_spocteny": 7,
+        "okrsky_spocteno": 7,
         "strany": [
           {
             "id": 47,
@@ -4440,14 +4440,14 @@
     "volicu": 5762,
     "volilo": 2787,
     "okrsky_celkem": 7,
-    "okrsky_spocteny": 7,
+    "okrsky_spocteno": 7,
     "obvody": [
       {
         "voleno": 25,
         "volicu": 5762,
         "volilo": 2787,
         "okrsky_celkem": 7,
-        "okrsky_spocteny": 7,
+        "okrsky_spocteno": 7,
         "strany": [
           {
             "id": 53,
@@ -4611,14 +4611,14 @@
     "volicu": 56216,
     "volilo": 23160,
     "okrsky_celkem": 80,
-    "okrsky_spocteny": 80,
+    "okrsky_spocteno": 80,
     "obvody": [
       {
         "voleno": 9,
         "volicu": 12789,
         "volilo": 5705,
         "okrsky_celkem": 19,
-        "okrsky_spocteny": 19,
+        "okrsky_spocteno": 19,
         "strany": [
           {
             "id": 714,
@@ -4725,7 +4725,7 @@
         "volicu": 13078,
         "volilo": 5104,
         "okrsky_celkem": 21,
-        "okrsky_spocteny": 21,
+        "okrsky_spocteno": 21,
         "strany": [
           {
             "id": 479,
@@ -4822,7 +4822,7 @@
         "volicu": 16051,
         "volilo": 5854,
         "okrsky_celkem": 21,
-        "okrsky_spocteny": 21,
+        "okrsky_spocteno": 21,
         "strany": [
           {
             "id": 144,
@@ -4924,7 +4924,7 @@
         "volicu": 14298,
         "volilo": 6497,
         "okrsky_celkem": 19,
-        "okrsky_spocteny": 19,
+        "okrsky_spocteno": 19,
         "strany": [
           {
             "id": 144,
@@ -5027,14 +5027,14 @@
     "volicu": 101853,
     "volilo": 44529,
     "okrsky_celkem": 131,
-    "okrsky_spocteny": 131,
+    "okrsky_spocteno": 131,
     "obvody": [
       {
         "voleno": 9,
         "volicu": 20408,
         "volilo": 8698,
         "okrsky_celkem": 27,
-        "okrsky_spocteny": 27,
+        "okrsky_spocteno": 27,
         "strany": [
           {
             "id": 724,
@@ -5136,7 +5136,7 @@
         "volicu": 20489,
         "volilo": 9692,
         "okrsky_celkem": 25,
-        "okrsky_spocteny": 25,
+        "okrsky_spocteno": 25,
         "strany": [
           {
             "id": 721,
@@ -5238,7 +5238,7 @@
         "volicu": 20935,
         "volilo": 9144,
         "okrsky_celkem": 27,
-        "okrsky_spocteny": 27,
+        "okrsky_spocteno": 27,
         "strany": [
           {
             "id": 53,
@@ -5338,7 +5338,7 @@
         "volicu": 20053,
         "volilo": 9134,
         "okrsky_celkem": 26,
-        "okrsky_spocteny": 26,
+        "okrsky_spocteno": 26,
         "strany": [
           {
             "id": 144,
@@ -5440,7 +5440,7 @@
         "volicu": 19968,
         "volilo": 7861,
         "okrsky_celkem": 26,
-        "okrsky_spocteny": 26,
+        "okrsky_spocteno": 26,
         "strany": [
           {
             "id": 144,
@@ -5548,14 +5548,14 @@
     "volicu": 60642,
     "volilo": 26782,
     "okrsky_celkem": 81,
-    "okrsky_spocteny": 81,
+    "okrsky_spocteno": 81,
     "obvody": [
       {
         "voleno": 45,
         "volicu": 60642,
         "volilo": 26782,
         "okrsky_celkem": 81,
-        "okrsky_spocteny": 81,
+        "okrsky_spocteno": 81,
         "strany": [
           {
             "id": 7,
@@ -5850,14 +5850,14 @@
     "volicu": 76150,
     "volilo": 38770,
     "okrsky_celkem": 104,
-    "okrsky_spocteny": 104,
+    "okrsky_spocteno": 104,
     "obvody": [
       {
         "voleno": 45,
         "volicu": 76150,
         "volilo": 38770,
         "okrsky_celkem": 104,
-        "okrsky_spocteny": 104,
+        "okrsky_spocteno": 104,
         "strany": [
           {
             "id": 343,
@@ -6140,14 +6140,14 @@
     "volicu": 32417,
     "volilo": 13336,
     "okrsky_celkem": 36,
-    "okrsky_spocteny": 36,
+    "okrsky_spocteno": 36,
     "obvody": [
       {
         "voleno": 27,
         "volicu": 32417,
         "volilo": 13336,
         "okrsky_celkem": 36,
-        "okrsky_spocteny": 36,
+        "okrsky_spocteno": 36,
         "strany": [
           {
             "id": 47,
@@ -6355,14 +6355,14 @@
     "volicu": 82689,
     "volilo": 33483,
     "okrsky_celkem": 108,
-    "okrsky_spocteny": 108,
+    "okrsky_spocteno": 108,
     "obvody": [
       {
         "voleno": 15,
         "volicu": 27365,
         "volilo": 10009,
         "okrsky_celkem": 42,
-        "okrsky_spocteny": 42,
+        "okrsky_spocteno": 42,
         "strany": [
           {
             "id": 721,
@@ -6503,7 +6503,7 @@
         "volicu": 26758,
         "volilo": 11838,
         "okrsky_celkem": 35,
-        "okrsky_spocteny": 35,
+        "okrsky_spocteno": 35,
         "strany": [
           {
             "id": 724,
@@ -6642,7 +6642,7 @@
         "volicu": 28566,
         "volilo": 11636,
         "okrsky_celkem": 31,
-        "okrsky_spocteny": 31,
+        "okrsky_spocteno": 31,
         "strany": [
           {
             "id": 1,
@@ -6787,14 +6787,14 @@
     "volicu": 37027,
     "volilo": 14719,
     "okrsky_celkem": 41,
-    "okrsky_spocteny": 41,
+    "okrsky_spocteno": 41,
     "obvody": [
       {
         "voleno": 12,
         "volicu": 14646,
         "volilo": 6107,
         "okrsky_celkem": 16,
-        "okrsky_spocteny": 16,
+        "okrsky_spocteno": 16,
         "strany": [
           {
             "id": 175,
@@ -6913,7 +6913,7 @@
         "volicu": 8296,
         "volilo": 3569,
         "okrsky_celkem": 10,
-        "okrsky_spocteny": 10,
+        "okrsky_spocteno": 10,
         "strany": [
           {
             "id": 721,
@@ -7010,7 +7010,7 @@
         "volicu": 14085,
         "volilo": 5043,
         "okrsky_celkem": 15,
-        "okrsky_spocteny": 15,
+        "okrsky_spocteno": 15,
         "strany": [
           {
             "id": 53,
@@ -7121,14 +7121,14 @@
     "volicu": 1462,
     "volilo": 875,
     "okrsky_celkem": 2,
-    "okrsky_spocteny": 2,
+    "okrsky_spocteno": 2,
     "obvody": [
       {
         "voleno": 15,
         "volicu": 1462,
         "volilo": 875,
         "okrsky_celkem": 2,
-        "okrsky_spocteny": 2,
+        "okrsky_spocteno": 2,
         "strany": [
           {
             "id": 5,
@@ -7242,14 +7242,14 @@
     "volicu": 417,
     "volilo": 298,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 7,
         "volicu": 417,
         "volilo": 298,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 53,
@@ -7311,14 +7311,14 @@
     "volicu": 749,
     "volilo": 532,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 9,
         "volicu": 749,
         "volilo": 532,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 90,
@@ -7390,14 +7390,14 @@
     "volicu": 6345,
     "volilo": 3395,
     "okrsky_celkem": 6,
-    "okrsky_spocteny": 6,
+    "okrsky_spocteno": 6,
     "obvody": [
       {
         "voleno": 21,
         "volicu": 6345,
         "volilo": 3395,
         "okrsky_celkem": 6,
-        "okrsky_spocteny": 6,
+        "okrsky_spocteno": 6,
         "strany": [
           {
             "id": 90,
@@ -7572,14 +7572,14 @@
     "volicu": 2343,
     "volilo": 1362,
     "okrsky_celkem": 2,
-    "okrsky_spocteny": 2,
+    "okrsky_spocteno": 2,
     "obvody": [
       {
         "voleno": 15,
         "volicu": 2343,
         "volilo": 1362,
         "okrsky_celkem": 2,
-        "okrsky_spocteny": 2,
+        "okrsky_spocteno": 2,
         "strany": [
           {
             "id": 90,
@@ -7716,14 +7716,14 @@
     "volicu": 2678,
     "volilo": 1535,
     "okrsky_celkem": 2,
-    "okrsky_spocteny": 2,
+    "okrsky_spocteno": 2,
     "obvody": [
       {
         "voleno": 15,
         "volicu": 2678,
         "volilo": 1535,
         "okrsky_celkem": 2,
-        "okrsky_spocteny": 2,
+        "okrsky_spocteno": 2,
         "strany": [
           {
             "id": 90,
@@ -7844,14 +7844,14 @@
     "volicu": 1292,
     "volilo": 724,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 9,
         "volicu": 1292,
         "volilo": 724,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 7,
@@ -7930,14 +7930,14 @@
     "volicu": 1677,
     "volilo": 988,
     "okrsky_celkem": 2,
-    "okrsky_spocteny": 2,
+    "okrsky_spocteno": 2,
     "obvody": [
       {
         "voleno": 15,
         "volicu": 1677,
         "volilo": 988,
         "okrsky_celkem": 2,
-        "okrsky_spocteny": 2,
+        "okrsky_spocteno": 2,
         "strany": [
           {
             "id": 1,
@@ -8081,14 +8081,14 @@
     "volicu": 2420,
     "volilo": 1467,
     "okrsky_celkem": 2,
-    "okrsky_spocteny": 2,
+    "okrsky_spocteno": 2,
     "obvody": [
       {
         "voleno": 15,
         "volicu": 2420,
         "volilo": 1467,
         "okrsky_celkem": 2,
-        "okrsky_spocteny": 2,
+        "okrsky_spocteno": 2,
         "strany": [
           {
             "id": 721,
@@ -8223,14 +8223,14 @@
     "volicu": 2416,
     "volilo": 1494,
     "okrsky_celkem": 2,
-    "okrsky_spocteny": 2,
+    "okrsky_spocteno": 2,
     "obvody": [
       {
         "voleno": 15,
         "volicu": 2416,
         "volilo": 1494,
         "okrsky_celkem": 2,
-        "okrsky_spocteny": 2,
+        "okrsky_spocteno": 2,
         "strany": [
           {
             "id": 371,
@@ -8365,14 +8365,14 @@
     "volicu": 974,
     "volilo": 650,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 7,
         "volicu": 974,
         "volilo": 650,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 90,
@@ -8477,14 +8477,14 @@
     "volicu": 2266,
     "volilo": 1221,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 13,
         "volicu": 2266,
         "volilo": 1221,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 53,
@@ -8576,14 +8576,14 @@
     "volicu": 245,
     "volilo": 109,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 5,
         "volicu": 245,
         "volilo": 109,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 90,
@@ -8628,14 +8628,14 @@
     "volicu": 593,
     "volilo": 428,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 7,
         "volicu": 593,
         "volilo": 428,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 721,
@@ -8726,14 +8726,14 @@
     "volicu": 5194,
     "volilo": 2965,
     "okrsky_celkem": 6,
-    "okrsky_spocteny": 6,
+    "okrsky_spocteno": 6,
     "obvody": [
       {
         "voleno": 11,
         "volicu": 5194,
         "volilo": 2965,
         "okrsky_celkem": 6,
-        "okrsky_spocteny": 6,
+        "okrsky_spocteno": 6,
         "strany": [
           {
             "id": 227,
@@ -8837,14 +8837,14 @@
     "volicu": 6817,
     "volilo": 2952,
     "okrsky_celkem": 6,
-    "okrsky_spocteny": 6,
+    "okrsky_spocteno": 6,
     "obvody": [
       {
         "voleno": 17,
         "volicu": 6817,
         "volilo": 2952,
         "okrsky_celkem": 6,
-        "okrsky_spocteny": 6,
+        "okrsky_spocteno": 6,
         "strany": [
           {
             "id": 480,
@@ -8984,14 +8984,14 @@
     "volicu": 1699,
     "volilo": 1031,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 15,
         "volicu": 1699,
         "volilo": 1031,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 90,
@@ -9093,14 +9093,14 @@
     "volicu": 481,
     "volilo": 249,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 9,
         "volicu": 481,
         "volilo": 249,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 53,
@@ -9165,14 +9165,14 @@
     "volicu": 836,
     "volilo": 532,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 9,
         "volicu": 836,
         "volilo": 532,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 7,
@@ -9251,14 +9251,14 @@
     "volicu": 1666,
     "volilo": 1003,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 11,
         "volicu": 1666,
         "volilo": 1003,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 90,
@@ -9371,14 +9371,14 @@
     "volicu": 220,
     "volilo": 148,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 7,
         "volicu": 220,
         "volilo": 148,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 53,
@@ -9440,14 +9440,14 @@
     "volicu": 5042,
     "volilo": 2061,
     "okrsky_celkem": 4,
-    "okrsky_spocteny": 4,
+    "okrsky_spocteno": 4,
     "obvody": [
       {
         "voleno": 19,
         "volicu": 5042,
         "volilo": 2061,
         "okrsky_celkem": 4,
-        "okrsky_spocteny": 4,
+        "okrsky_spocteno": 4,
         "strany": [
           {
             "id": 721,
@@ -9595,14 +9595,14 @@
     "volicu": 384,
     "volilo": 181,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 9,
         "volicu": 384,
         "volilo": 181,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 90,
@@ -9667,14 +9667,14 @@
     "volicu": 2511,
     "volilo": 1333,
     "okrsky_celkem": 3,
-    "okrsky_spocteny": 3,
+    "okrsky_spocteno": 3,
     "obvody": [
       {
         "voleno": 11,
         "volicu": 2511,
         "volilo": 1333,
         "okrsky_celkem": 3,
-        "okrsky_spocteny": 3,
+        "okrsky_spocteno": 3,
         "strany": [
           {
             "id": 1,
@@ -9770,14 +9770,14 @@
     "volicu": 1573,
     "volilo": 936,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 11,
         "volicu": 1573,
         "volilo": 936,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 166,
@@ -9878,14 +9878,14 @@
     "volicu": 2204,
     "volilo": 1178,
     "okrsky_celkem": 2,
-    "okrsky_spocteny": 2,
+    "okrsky_spocteno": 2,
     "obvody": [
       {
         "voleno": 11,
         "volicu": 2204,
         "volilo": 1178,
         "okrsky_celkem": 2,
-        "okrsky_spocteny": 2,
+        "okrsky_spocteno": 2,
         "strany": [
           {
             "id": 166,
@@ -9967,14 +9967,14 @@
     "volicu": 4742,
     "volilo": 2498,
     "okrsky_celkem": 5,
-    "okrsky_spocteny": 5,
+    "okrsky_spocteno": 5,
     "obvody": [
       {
         "voleno": 15,
         "volicu": 4742,
         "volilo": 2498,
         "okrsky_celkem": 5,
-        "okrsky_spocteny": 5,
+        "okrsky_spocteno": 5,
         "strany": [
           {
             "id": 53,
@@ -10088,14 +10088,14 @@
     "volicu": 1972,
     "volilo": 1256,
     "okrsky_celkem": 2,
-    "okrsky_spocteny": 2,
+    "okrsky_spocteno": 2,
     "obvody": [
       {
         "voleno": 7,
         "volicu": 1972,
         "volilo": 1256,
         "okrsky_celkem": 2,
-        "okrsky_spocteny": 2,
+        "okrsky_spocteno": 2,
         "strany": [
           {
             "id": 90,
@@ -10181,14 +10181,14 @@
     "volicu": 1114,
     "volilo": 633,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 7,
         "volicu": 1114,
         "volilo": 633,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 7,
@@ -10255,14 +10255,14 @@
     "volicu": 777,
     "volilo": 560,
     "okrsky_celkem": 1,
-    "okrsky_spocteny": 1,
+    "okrsky_spocteno": 1,
     "obvody": [
       {
         "voleno": 9,
         "volicu": 777,
         "volilo": 560,
         "okrsky_celkem": 1,
-        "okrsky_spocteny": 1,
+        "okrsky_spocteno": 1,
         "strany": [
           {
             "id": 90,
@@ -10341,14 +10341,14 @@
     "volicu": 1846,
     "volilo": 1113,
     "okrsky_celkem": 3,
-    "okrsky_spocteny": 3,
+    "okrsky_spocteno": 3,
     "obvody": [
       {
         "voleno": 9,
         "volicu": 1846,
         "volilo": 1113,
         "okrsky_celkem": 3,
-        "okrsky_spocteny": 3,
+        "okrsky_spocteno": 3,
         "strany": [
           {
             "id": 90,
@@ -10446,14 +10446,14 @@
     "volicu": 1491,
     "volilo": 984,
     "okrsky_celkem": 2,
-    "okrsky_spocteny": 2,
+    "okrsky_spocteno": 2,
     "obvody": [
       {
         "voleno": 11,
         "volicu": 1491,
         "volilo": 984,
         "okrsky_celkem": 2,
-        "okrsky_spocteny": 2,
+        "okrsky_spocteno": 2,
         "strany": [
           {
             "id": 7,
@@ -10554,14 +10554,14 @@
     "volicu": 2656,
     "volilo": 1516,
     "okrsky_celkem": 2,
-    "okrsky_spocteny": 2,
+    "okrsky_spocteno": 2,
     "obvody": [
       {
         "voleno": 11,
         "volicu": 2656,
         "volilo": 1516,
         "okrsky_celkem": 2,
-        "okrsky_spocteny": 2,
+        "okrsky_spocteno": 2,
         "strany": [
           {
             "id": 724,
@@ -10677,14 +10677,14 @@
     "volicu": 7222,
     "volilo": 3558,
     "okrsky_celkem": 10,
-    "okrsky_spocteny": 10,
+    "okrsky_spocteno": 10,
     "obvody": [
       {
         "voleno": 17,
         "volicu": 7222,
         "volilo": 3558,
         "okrsky_celkem": 10,
-        "okrsky_spocteny": 10,
+        "okrsky_spocteno": 10,
         "strany": [
           {
             "id": 88,
@@ -10831,14 +10831,14 @@
     "volicu": 3260,
     "volilo": 1678,
     "okrsky_celkem": 4,
-    "okrsky_spocteny": 4,
+    "okrsky_spocteno": 4,
     "obvody": [
       {
         "voleno": 15,
         "volicu": 3260,
         "volilo": 1678,
         "okrsky_celkem": 4,
-        "okrsky_spocteny": 4,
+        "okrsky_spocteno": 4,
         "strany": [
           {
             "id": 90,

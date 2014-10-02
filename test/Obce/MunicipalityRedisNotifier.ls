@@ -10,15 +10,17 @@ describe "Redis notifier" (_) ->
   redisSubscriber = null
   messages = []
   data = {
-    obec: okrsky_spocteno: 20
-    mcmo: okrsky_spocteno: 90
+    obec: okrsky_spocteno: 20, kod: 9999
+    mcmo: okrsky_spocteno: 90, kod: 9998
     geojson: 'foobar'
   }
   before (done) ->
     redisClient := redis.createClient config.redis.port, config.redis.host
+    <~ redisClient.auth config.redis.key
     <~ redisClient.select config.redis.db
     <~ redisClient.flushdb!
     redisSubscriber := redis.createClient config.redis.port, config.redis.host
+    <~ redisSubscriber.auth config.redis.key
     <~ redisSubscriber.select config.redis.db
     <~ redisSubscriber.subscribe "update"
     done!
@@ -33,7 +35,7 @@ describe "Redis notifier" (_) ->
   it 'should update current okrsky_spocteno' (done) ->
     (err, value) <~ redisClient.get "sum:9999:obec"
     expect value .to.eql 20
-    (err, value) <~ redisClient.get "sum:9999:mcmo"
+    (err, value) <~ redisClient.get "sum:9998:mcmo"
     expect value .to.eql 90
     done!
 

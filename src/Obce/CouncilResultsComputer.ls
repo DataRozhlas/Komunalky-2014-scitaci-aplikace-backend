@@ -11,7 +11,7 @@ module.exports.computeCouncilResults = (xml) ->
       obecOut.volicu          = parseInt obec.VYSLEDEK.0.UCAST.0.$.ZAPSANI_VOLICI,   10
       obecOut.volilo          = parseInt obec.VYSLEDEK.0.UCAST.0.$.ODEVZDANE_OBALKY, 10
       obecOut.okrsky_celkem   = parseInt obec.VYSLEDEK.0.UCAST.0.$.OKRSKY_CELKEM,    10
-      obecOut.okrsky_spocteny = parseInt obec.VYSLEDEK.0.UCAST.0.$.OKRSKY_ZPRAC,     10
+      obecOut.okrsky_spocteno = parseInt obec.VYSLEDEK.0.UCAST.0.$.OKRSKY_ZPRAC,     10
       obecOut.obvody = (obec.OBVOD || [obec]).map (obvod) ->
         obvodOut =
           voleno: parseInt obvod.$.VOLENO_ZASTUP, 10
@@ -19,7 +19,7 @@ module.exports.computeCouncilResults = (xml) ->
           obvodOut.volicu          = parseInt obvod.VYSLEDEK.0.UCAST.0.$.ZAPSANI_VOLICI,   10
           obvodOut.volilo          = parseInt obvod.VYSLEDEK.0.UCAST.0.$.ODEVZDANE_OBALKY, 10
           obvodOut.okrsky_celkem   = parseInt obvod.VYSLEDEK.0.UCAST.0.$.OKRSKY_CELKEM,    10
-          obvodOut.okrsky_spocteny = parseInt obvod.VYSLEDEK.0.UCAST.0.$.OKRSKY_ZPRAC,     10
+          obvodOut.okrsky_spocteno = parseInt obvod.VYSLEDEK.0.UCAST.0.$.OKRSKY_ZPRAC,     10
           obvodOut.strany = obvod.VYSLEDEK.0.VOLEBNI_STRANA.map (strana) ->
             stranaOut =
               id: parseInt strana.$.VSTRANA
