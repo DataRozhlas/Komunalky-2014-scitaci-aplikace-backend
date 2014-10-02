@@ -38,6 +38,6 @@ downloader
     municipalityCombiner.update munisChanged
 
 municipalityCombiner.on \municipality (muniId, outputData, allData) ->
-  MunicipalityRedisNotifier.update redisClient, allData
   <~ uploader.upload muniId, outputData
+  MunicipalityRedisNotifier.update redisClient, allData
   MunicipalityRedisNotifier.notify redisClient, muniId
