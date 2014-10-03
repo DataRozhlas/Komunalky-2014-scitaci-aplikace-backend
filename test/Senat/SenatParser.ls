@@ -38,6 +38,10 @@ describe 'SenatParser' (_) ->
     expect kandidati.0 .to.have.property \prijmeni \Procházková
     expect kandidati.0 .to.have.property \hlasu 1746
 
+  # it '-- save data --' (done) ->
+  #   <~ fs.writeFile "#__dirname/../data/computeSenatResults.json", JSON.stringify out, 1, 2
+  #   done!
+
   it 'should get correct values for 2nd round' ->
     out := SenatParser.parse kolo: 2, xml
     expect out .to.have.property \volicu 2774982

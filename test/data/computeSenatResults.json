@@ -1,0 +1,1359 @@
+{
+  "volicu": 2774178,
+  "volilo": 1237072,
+  "okrsky_celkem": 4860,
+  "okrsky_spocteno": 4860,
+  "obvody": {
+    "1": {
+      "volicu": 90828,
+      "volilo": 35992,
+      "okrsky_celkem": 137,
+      "okrsky_spocteno": 137,
+      "kandidati": [
+        {
+          "jmeno": "Věra",
+          "prijmeni": "Procházková",
+          "hlasu": 1746
+        },
+        {
+          "jmeno": "Josef",
+          "prijmeni": "Pavel",
+          "hlasu": 5135
+        },
+        {
+          "jmeno": "Jaroslav",
+          "prijmeni": "Žák",
+          "hlasu": 1875
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Kotek",
+          "hlasu": 4175
+        },
+        {
+          "jmeno": "Ivan",
+          "prijmeni": "Poustka",
+          "hlasu": 1616
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Horník",
+          "hlasu": 7454
+        },
+        {
+          "jmeno": "František",
+          "prijmeni": "Weiss",
+          "hlasu": 566
+        },
+        {
+          "jmeno": "Jaroslav",
+          "prijmeni": "Borka",
+          "hlasu": 4097
+        },
+        {
+          "jmeno": "Jaroslav",
+          "prijmeni": "Rovný",
+          "hlasu": 1791
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Vyvadil",
+          "hlasu": 5044
+        }
+      ]
+    },
+    "4": {
+      "volicu": 93336,
+      "volilo": 36123,
+      "okrsky_celkem": 124,
+      "okrsky_spocteno": 124,
+      "kandidati": [
+        {
+          "jmeno": "Sáša",
+          "prijmeni": "Štembera",
+          "hlasu": 2674
+        },
+        {
+          "jmeno": "Vlastimil",
+          "prijmeni": "Balín",
+          "hlasu": 1069
+        },
+        {
+          "jmeno": "Tomáš",
+          "prijmeni": "Vandas",
+          "hlasu": 1744
+        },
+        {
+          "jmeno": "Alena",
+          "prijmeni": "Dernerová",
+          "hlasu": 12671
+        },
+        {
+          "jmeno": "Vlastimil",
+          "prijmeni": "Doležal",
+          "hlasu": 1846
+        },
+        {
+          "jmeno": "Václav",
+          "prijmeni": "Hofmann",
+          "hlasu": 3921
+        },
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Brabec",
+          "hlasu": 6039
+        },
+        {
+          "jmeno": "Josef",
+          "prijmeni": "Nétek",
+          "hlasu": 4012
+        }
+      ]
+    },
+    "7": {
+      "volicu": 102495,
+      "volilo": 48063,
+      "okrsky_celkem": 310,
+      "okrsky_spocteno": 310,
+      "kandidati": [
+        {
+          "jmeno": "Dagmar",
+          "prijmeni": "Terelmešová",
+          "hlasu": 11530
+        },
+        {
+          "jmeno": "Karel",
+          "prijmeni": "Kvit",
+          "hlasu": 4508
+        },
+        {
+          "jmeno": "Oldřich",
+          "prijmeni": "Kodeda",
+          "hlasu": 592
+        },
+        {
+          "jmeno": "Richard",
+          "prijmeni": "Sequens",
+          "hlasu": 5777
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Kůrka",
+          "hlasu": 529
+        },
+        {
+          "jmeno": "František",
+          "prijmeni": "Pillmann",
+          "hlasu": 2086
+        },
+        {
+          "jmeno": "Pavel",
+          "prijmeni": "Čížek",
+          "hlasu": 6202
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Šneberger",
+          "hlasu": 12534
+        }
+      ]
+    },
+    "10": {
+      "volicu": 115879,
+      "volilo": 53918,
+      "okrsky_celkem": 261,
+      "okrsky_spocteno": 261,
+      "kandidati": [
+        {
+          "jmeno": "Luboš",
+          "prijmeni": "Dvořák",
+          "hlasu": 5322
+        },
+        {
+          "jmeno": "Vladimír",
+          "prijmeni": "Špidla",
+          "hlasu": 11649
+        },
+        {
+          "jmeno": "Tomáš",
+          "prijmeni": "Jirsa",
+          "hlasu": 16367
+        },
+        {
+          "jmeno": "Roman",
+          "prijmeni": "Bureš",
+          "hlasu": 1601
+        },
+        {
+          "jmeno": "Bohumil",
+          "prijmeni": "Bezemek",
+          "hlasu": 1396
+        },
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Troup",
+          "hlasu": 8795
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Zasadil",
+          "hlasu": 3844
+        }
+      ]
+    },
+    "13": {
+      "volicu": 107960,
+      "volilo": 50687,
+      "okrsky_celkem": 290,
+      "okrsky_spocteno": 290,
+      "kandidati": [
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Straka",
+          "hlasu": 4959
+        },
+        {
+          "jmeno": "Pavel",
+          "prijmeni": "Eybert",
+          "hlasu": 18922
+        },
+        {
+          "jmeno": "Jindřich",
+          "prijmeni": "Goetz",
+          "hlasu": 589
+        },
+        {
+          "jmeno": "Jaroslav",
+          "prijmeni": "Hejl",
+          "hlasu": 1874
+        },
+        {
+          "jmeno": "Iveta",
+          "prijmeni": "Vilímková",
+          "hlasu": 1906
+        },
+        {
+          "jmeno": "Vilém",
+          "prijmeni": "Mikula",
+          "hlasu": 938
+        },
+        {
+          "jmeno": "Petr",
+          "prijmeni": "Krůček",
+          "hlasu": 4252
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Mládek",
+          "hlasu": 13932
+        }
+      ]
+    },
+    "16": {
+      "volicu": 114379,
+      "volilo": 57311,
+      "okrsky_celkem": 177,
+      "okrsky_spocteno": 177,
+      "kandidati": [
+        {
+          "jmeno": "Tom Jack",
+          "prijmeni": "Illés",
+          "hlasu": 1195
+        },
+        {
+          "jmeno": "Marcel",
+          "prijmeni": "Winter",
+          "hlasu": 1240
+        },
+        {
+          "jmeno": "Věra",
+          "prijmeni": "Kovářová",
+          "hlasu": 16165
+        },
+        {
+          "jmeno": "Pavel",
+          "prijmeni": "Kysela",
+          "hlasu": 10892
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Oberfalzer",
+          "hlasu": 17303
+        },
+        {
+          "jmeno": "Rudolf",
+          "prijmeni": "Peltan",
+          "hlasu": 4954
+        }
+      ]
+    },
+    "19": {
+      "volicu": 96984,
+      "volilo": 43582,
+      "okrsky_celkem": 96,
+      "okrsky_spocteno": 96,
+      "kandidati": [
+        {
+          "jmeno": "Pavel",
+          "prijmeni": "Hlaváč",
+          "hlasu": 5130
+        },
+        {
+          "jmeno": "Milan",
+          "prijmeni": "Pešák",
+          "hlasu": 10671
+        },
+        {
+          "jmeno": "Ladislav",
+          "prijmeni": "Kárský",
+          "hlasu": 8304
+        },
+        {
+          "jmeno": "Ladislav",
+          "prijmeni": "Bátora",
+          "hlasu": 1396
+        },
+        {
+          "jmeno": "Augustin",
+          "prijmeni": "Bubník",
+          "hlasu": 964
+        },
+        {
+          "jmeno": "Josef",
+          "prijmeni": "Zieleniec",
+          "hlasu": 7516
+        },
+        {
+          "jmeno": "Peter",
+          "prijmeni": "Ondrejka",
+          "hlasu": 496
+        },
+        {
+          "jmeno": "Pavel",
+          "prijmeni": "Přeučil",
+          "hlasu": 1131
+        },
+        {
+          "jmeno": "Miloslav",
+          "prijmeni": "Bednář",
+          "hlasu": 2154
+        },
+        {
+          "jmeno": "Jana",
+          "prijmeni": "Čunátová",
+          "hlasu": 2963
+        }
+      ]
+    },
+    "22": {
+      "volicu": 86460,
+      "volilo": 37863,
+      "okrsky_celkem": 107,
+      "okrsky_spocteno": 107,
+      "kandidati": [
+        {
+          "jmeno": "Jaromír",
+          "prijmeni": "Štětina",
+          "hlasu": 11210
+        },
+        {
+          "jmeno": "Karel",
+          "prijmeni": "Duchek",
+          "hlasu": 704
+        },
+        {
+          "jmeno": "Jana",
+          "prijmeni": "Bobošíková",
+          "hlasu": 3326
+        },
+        {
+          "jmeno": "Miroslav",
+          "prijmeni": "Svoboda",
+          "hlasu": 6644
+        },
+        {
+          "jmeno": "Eva",
+          "prijmeni": "Svoboda",
+          "hlasu": 208
+        },
+        {
+          "jmeno": "Bohdan",
+          "prijmeni": "Babinec",
+          "hlasu": 149
+        },
+        {
+          "jmeno": "Jaroslav",
+          "prijmeni": "Vocelka",
+          "hlasu": 633
+        },
+        {
+          "jmeno": "Miroslav",
+          "prijmeni": "Suja",
+          "hlasu": 411
+        },
+        {
+          "jmeno": "Lubomír",
+          "prijmeni": "Ledl",
+          "hlasu": 2139
+        },
+        {
+          "jmeno": "Vladislav",
+          "prijmeni": "Lipovský",
+          "hlasu": 8708
+        },
+        {
+          "jmeno": "Eva",
+          "prijmeni": "Stříteská",
+          "hlasu": 2012
+        }
+      ]
+    },
+    "25": {
+      "volicu": 88232,
+      "volilo": 43571,
+      "okrsky_celkem": 110,
+      "okrsky_spocteno": 110,
+      "kandidati": [
+        {
+          "jmeno": "Petr",
+          "prijmeni": "Bratský",
+          "hlasu": 11574
+        },
+        {
+          "jmeno": "Tomáš",
+          "prijmeni": "Finger",
+          "hlasu": 774
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Kohout",
+          "hlasu": 7970
+        },
+        {
+          "jmeno": "Bedřich",
+          "prijmeni": "Moldan",
+          "hlasu": 9761
+        },
+        {
+          "jmeno": "Ivan",
+          "prijmeni": "Šterzl",
+          "hlasu": 190
+        },
+        {
+          "jmeno": "Marián",
+          "prijmeni": "Hošek",
+          "hlasu": 1521
+        },
+        {
+          "jmeno": "Helena",
+          "prijmeni": "Briardová",
+          "hlasu": 2936
+        },
+        {
+          "jmeno": "Martin",
+          "prijmeni": "Stránský",
+          "hlasu": 2342
+        },
+        {
+          "jmeno": "Lucie",
+          "prijmeni": "Ramnebornová",
+          "hlasu": 4039
+        },
+        {
+          "jmeno": "Daniel",
+          "prijmeni": "Solis",
+          "hlasu": 422
+        }
+      ]
+    },
+    "28": {
+      "volicu": 117936,
+      "volilo": 51571,
+      "okrsky_celkem": 187,
+      "okrsky_spocteno": 187,
+      "kandidati": [
+        {
+          "jmeno": "Nina",
+          "prijmeni": "Nováková",
+          "hlasu": 9800
+        },
+        {
+          "jmeno": "Libor",
+          "prijmeni": "Holík",
+          "hlasu": 2495
+        },
+        {
+          "jmeno": "Milan",
+          "prijmeni": "Němec",
+          "hlasu": 12042
+        },
+        {
+          "jmeno": "Jiřina",
+          "prijmeni": "Fialová",
+          "hlasu": 4985
+        },
+        {
+          "jmeno": "Petr",
+          "prijmeni": "Hannig",
+          "hlasu": 3405
+        },
+        {
+          "jmeno": "Veronika",
+          "prijmeni": "Vrecionová",
+          "hlasu": 14497
+        }
+      ]
+    },
+    "31": {
+      "volicu": 95661,
+      "volilo": 34093,
+      "okrsky_celkem": 138,
+      "okrsky_spocteno": 138,
+      "kandidati": [
+        {
+          "jmeno": "Jaroslav",
+          "prijmeni": "Doubrava",
+          "hlasu": 7391
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Eichler",
+          "hlasu": 3728
+        },
+        {
+          "jmeno": "Liběna",
+          "prijmeni": "Dobrovolná",
+          "hlasu": 2500
+        },
+        {
+          "jmeno": "Gustav",
+          "prijmeni": "Krov",
+          "hlasu": 6656
+        },
+        {
+          "jmeno": "Pavel",
+          "prijmeni": "Sušický",
+          "hlasu": 8625
+        },
+        {
+          "jmeno": "Petr",
+          "prijmeni": "Brázda",
+          "hlasu": 2700
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Jaroš",
+          "hlasu": 321
+        }
+      ]
+    },
+    "34": {
+      "volicu": 114460,
+      "volilo": 49060,
+      "okrsky_celkem": 156,
+      "okrsky_spocteno": 156,
+      "kandidati": [
+        {
+          "jmeno": "Přemysl",
+          "prijmeni": "Sobotka",
+          "hlasu": 17344
+        },
+        {
+          "jmeno": "Zuzana",
+          "prijmeni": "Chytrá",
+          "hlasu": 3117
+        },
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Joukl",
+          "hlasu": 369
+        },
+        {
+          "jmeno": "Leoš",
+          "prijmeni": "Škoda",
+          "hlasu": 1289
+        },
+        {
+          "jmeno": "Stanislav",
+          "prijmeni": "Eichler",
+          "hlasu": 12330
+        },
+        {
+          "jmeno": "Milan",
+          "prijmeni": "Erbert",
+          "hlasu": 2877
+        },
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Kubr",
+          "hlasu": 2228
+        },
+        {
+          "jmeno": "Milan",
+          "prijmeni": "Drobný",
+          "hlasu": 821
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Marušiak",
+          "hlasu": 6530
+        }
+      ]
+    },
+    "37": {
+      "volicu": 107297,
+      "volilo": 50578,
+      "okrsky_celkem": 286,
+      "okrsky_spocteno": 286,
+      "kandidati": [
+        {
+          "jmeno": "Tomáš",
+          "prijmeni": "Czernin",
+          "hlasu": 8619
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Liška",
+          "hlasu": 12680
+        },
+        {
+          "jmeno": "Otakar",
+          "prijmeni": "Ruml",
+          "hlasu": 4553
+        },
+        {
+          "jmeno": "Josef",
+          "prijmeni": "Táborský",
+          "hlasu": 11635
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Kuhn",
+          "hlasu": 4629
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Hvězda",
+          "hlasu": 2155
+        },
+        {
+          "jmeno": "Miroslav",
+          "prijmeni": "Voda",
+          "hlasu": 2314
+        }
+      ]
+    },
+    "40": {
+      "volicu": 100580,
+      "volilo": 46851,
+      "okrsky_celkem": 316,
+      "okrsky_spocteno": 316,
+      "kandidati": [
+        {
+          "jmeno": "Jaromír",
+          "prijmeni": "Strnad",
+          "hlasu": 13125
+        },
+        {
+          "jmeno": "Oldřich",
+          "prijmeni": "Doležal",
+          "hlasu": 3118
+        },
+        {
+          "jmeno": "Olga",
+          "prijmeni": "Zubová",
+          "hlasu": 2515
+        },
+        {
+          "jmeno": "Stanislav",
+          "prijmeni": "Veselý",
+          "hlasu": 4594
+        },
+        {
+          "jmeno": "Josef",
+          "prijmeni": "Mrocek",
+          "hlasu": 236
+        },
+        {
+          "jmeno": "Marie",
+          "prijmeni": "Matyášová",
+          "hlasu": 810
+        },
+        {
+          "jmeno": "Michaela",
+          "prijmeni": "Šojdrová",
+          "hlasu": 2406
+        },
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Nováček",
+          "hlasu": 7261
+        },
+        {
+          "jmeno": "Jana",
+          "prijmeni": "Volfová",
+          "hlasu": 1203
+        },
+        {
+          "jmeno": "Milan",
+          "prijmeni": "Vodička",
+          "hlasu": 405
+        },
+        {
+          "jmeno": "Ladislav",
+          "prijmeni": "Exner",
+          "hlasu": 1843
+        },
+        {
+          "jmeno": "Lucie",
+          "prijmeni": "Talmanová",
+          "hlasu": 5389
+        }
+      ]
+    },
+    "43": {
+      "volicu": 111416,
+      "volilo": 47720,
+      "okrsky_celkem": 202,
+      "okrsky_spocteno": 202,
+      "kandidati": [
+        {
+          "jmeno": "Miluše",
+          "prijmeni": "Horská",
+          "hlasu": 8751
+        },
+        {
+          "jmeno": "Marta",
+          "prijmeni": "Lederová",
+          "hlasu": 1571
+        },
+        {
+          "jmeno": "Václav",
+          "prijmeni": "Snopek",
+          "hlasu": 5019
+        },
+        {
+          "jmeno": "Vladimír",
+          "prijmeni": "Engelmajer",
+          "hlasu": 3494
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Komárek",
+          "hlasu": 9973
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Málek",
+          "hlasu": 8170
+        },
+        {
+          "jmeno": "Petr",
+          "prijmeni": "Janko",
+          "hlasu": 1003
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Stříteský",
+          "hlasu": 6895
+        }
+      ]
+    },
+    "46": {
+      "volicu": 102414,
+      "volilo": 50504,
+      "okrsky_celkem": 190,
+      "okrsky_spocteno": 190,
+      "kandidati": [
+        {
+          "jmeno": "Miloslav",
+          "prijmeni": "Soušek",
+          "hlasu": 10213
+        },
+        {
+          "jmeno": "Jaroslav",
+          "prijmeni": "Bajt",
+          "hlasu": 2944
+        },
+        {
+          "jmeno": "Wesselin",
+          "prijmeni": "Toppisch",
+          "hlasu": 2735
+        },
+        {
+          "jmeno": "Petr",
+          "prijmeni": "Šilar",
+          "hlasu": 10311
+        },
+        {
+          "jmeno": "Jaromír",
+          "prijmeni": "Dušek",
+          "hlasu": 3807
+        },
+        {
+          "jmeno": "Richard",
+          "prijmeni": "Neugebauer",
+          "hlasu": 7395
+        },
+        {
+          "jmeno": "Ludmila",
+          "prijmeni": "Müllerová",
+          "hlasu": 8377
+        }
+      ]
+    },
+    "49": {
+      "volicu": 105902,
+      "volilo": 54791,
+      "okrsky_celkem": 233,
+      "okrsky_spocteno": 233,
+      "kandidati": [
+        {
+          "jmeno": "Stanislav",
+          "prijmeni": "Navrkal",
+          "hlasu": 5353
+        },
+        {
+          "jmeno": "Petr",
+          "prijmeni": "Rožňák",
+          "hlasu": 526
+        },
+        {
+          "jmeno": "Jozef",
+          "prijmeni": "Regec",
+          "hlasu": 15541
+        },
+        {
+          "jmeno": "Jindřich",
+          "prijmeni": "Vomela",
+          "hlasu": 2078
+        },
+        {
+          "jmeno": "Ivana",
+          "prijmeni": "Holomková",
+          "hlasu": 4922
+        },
+        {
+          "jmeno": "Karel",
+          "prijmeni": "Jarůšek",
+          "hlasu": 6760
+        },
+        {
+          "jmeno": "Pavel",
+          "prijmeni": "Henek",
+          "hlasu": 943
+        },
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Peša",
+          "hlasu": 10771
+        },
+        {
+          "jmeno": "Miroslav",
+          "prijmeni": "Lejsek",
+          "hlasu": 197
+        },
+        {
+          "jmeno": "Josef",
+          "prijmeni": "Mikulášek",
+          "hlasu": 3662
+        }
+      ]
+    },
+    "52": {
+      "volicu": 103255,
+      "volilo": 44501,
+      "okrsky_celkem": 251,
+      "okrsky_spocteno": 251,
+      "kandidati": [
+        {
+          "jmeno": "Pavel",
+          "prijmeni": "Šlechtický",
+          "hlasu": 6140
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Kasal",
+          "hlasu": 4577
+        },
+        {
+          "jmeno": "Vratislav",
+          "prijmeni": "Výborný",
+          "hlasu": 7961
+        },
+        {
+          "jmeno": "Vladislav",
+          "prijmeni": "Nechvátal",
+          "hlasu": 2888
+        },
+        {
+          "jmeno": "Zdeňka",
+          "prijmeni": "Drlíková",
+          "hlasu": 3744
+        },
+        {
+          "jmeno": "František",
+          "prijmeni": "Halásek",
+          "hlasu": 1215
+        },
+        {
+          "jmeno": "Eduard",
+          "prijmeni": "Zeman",
+          "hlasu": 816
+        },
+        {
+          "jmeno": "Miloš",
+          "prijmeni": "Vystrčil",
+          "hlasu": 14050
+        }
+      ]
+    },
+    "55": {
+      "volicu": 109482,
+      "volilo": 52382,
+      "okrsky_celkem": 173,
+      "okrsky_spocteno": 173,
+      "kandidati": [
+        {
+          "jmeno": "Vojtěch",
+          "prijmeni": "Adam",
+          "hlasu": 8300
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Žaloudík",
+          "hlasu": 15709
+        },
+        {
+          "jmeno": "Ivan",
+          "prijmeni": "Čadeni",
+          "hlasu": 984
+        },
+        {
+          "jmeno": "Karel",
+          "prijmeni": "Bořecký",
+          "hlasu": 4668
+        },
+        {
+          "jmeno": "Vladimír",
+          "prijmeni": "Paulík",
+          "hlasu": 1945
+        },
+        {
+          "jmeno": "Daniela",
+          "prijmeni": "Magálová",
+          "hlasu": 1017
+        },
+        {
+          "jmeno": "Tomáš",
+          "prijmeni": "Julínek",
+          "hlasu": 9607
+        },
+        {
+          "jmeno": "František",
+          "prijmeni": "Svoboda",
+          "hlasu": 6297
+        }
+      ]
+    },
+    "58": {
+      "volicu": 90620,
+      "volilo": 39115,
+      "okrsky_celkem": 97,
+      "okrsky_spocteno": 97,
+      "kandidati": [
+        {
+          "jmeno": "Václav",
+          "prijmeni": "Božek",
+          "hlasu": 9774
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Kux",
+          "hlasu": 568
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Vorlíček",
+          "hlasu": 6457
+        },
+        {
+          "jmeno": "Stanislav",
+          "prijmeni": "Juránek",
+          "hlasu": 9061
+        },
+        {
+          "jmeno": "Ladislav",
+          "prijmeni": "Zapletal",
+          "hlasu": 507
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Vítek",
+          "hlasu": 1086
+        },
+        {
+          "jmeno": "Miroslav",
+          "prijmeni": "Hošek",
+          "hlasu": 6151
+        },
+        {
+          "jmeno": "Daniel",
+          "prijmeni": "Borecký",
+          "hlasu": 2891
+        }
+      ]
+    },
+    "61": {
+      "volicu": 111059,
+      "volilo": 43277,
+      "okrsky_celkem": 136,
+      "okrsky_spocteno": 136,
+      "kandidati": [
+        {
+          "jmeno": "Josef",
+          "prijmeni": "Dušek",
+          "hlasu": 396
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Rytíř",
+          "hlasu": 2326
+        },
+        {
+          "jmeno": "Pavel",
+          "prijmeni": "Nováček",
+          "hlasu": 3745
+        },
+        {
+          "jmeno": "Miroslav",
+          "prijmeni": "Skácel",
+          "hlasu": 4004
+        },
+        {
+          "jmeno": "Martin",
+          "prijmeni": "Tesařík",
+          "hlasu": 14306
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Hálek",
+          "hlasu": 8449
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Klein",
+          "hlasu": 8216
+        }
+      ]
+    },
+    "64": {
+      "volicu": 91973,
+      "volilo": 36623,
+      "okrsky_celkem": 178,
+      "okrsky_spocteno": 178,
+      "kandidati": [
+        {
+          "jmeno": "Vítězslav",
+          "prijmeni": "Maláč",
+          "hlasu": 4543
+        },
+        {
+          "jmeno": "Vilém",
+          "prijmeni": "Urbiš",
+          "hlasu": 1399
+        },
+        {
+          "jmeno": "Jaroslav",
+          "prijmeni": "Palas",
+          "hlasu": 11062
+        },
+        {
+          "jmeno": "Miroslava",
+          "prijmeni": "Hustáková",
+          "hlasu": 3962
+        },
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Síla",
+          "hlasu": 1681
+        },
+        {
+          "jmeno": "Marián",
+          "prijmeni": "Olejník",
+          "hlasu": 1484
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Žák",
+          "hlasu": 4775
+        },
+        {
+          "jmeno": "Pavel",
+          "prijmeni": "Bačgoň",
+          "hlasu": 3947
+        },
+        {
+          "jmeno": "Alfréd",
+          "prijmeni": "Roik",
+          "hlasu": 984
+        }
+      ]
+    },
+    "67": {
+      "volicu": 115595,
+      "volilo": 50848,
+      "okrsky_celkem": 140,
+      "okrsky_spocteno": 140,
+      "kandidati": [
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Krajčír",
+          "hlasu": 1312
+        },
+        {
+          "jmeno": "Antonín",
+          "prijmeni": "Hrabánek",
+          "hlasu": 962
+        },
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Besta",
+          "hlasu": 10280
+        },
+        {
+          "jmeno": "Karel",
+          "prijmeni": "Kuboš",
+          "hlasu": 5384
+        },
+        {
+          "jmeno": "Drahomír",
+          "prijmeni": "Strnadel",
+          "hlasu": 5694
+        },
+        {
+          "jmeno": "Miroslav",
+          "prijmeni": "Kobsa",
+          "hlasu": 4702
+        },
+        {
+          "jmeno": "Sylva",
+          "prijmeni": "Kováčiková",
+          "hlasu": 5322
+        },
+        {
+          "jmeno": "Jaroslav",
+          "prijmeni": "Šula",
+          "hlasu": 4962
+        },
+        {
+          "jmeno": "Milan",
+          "prijmeni": "Bureš",
+          "hlasu": 7657
+        }
+      ]
+    },
+    "70": {
+      "volicu": 100042,
+      "volilo": 38765,
+      "okrsky_celkem": 135,
+      "okrsky_spocteno": 135,
+      "kandidati": [
+        {
+          "jmeno": "Radoslav",
+          "prijmeni": "Štědroň",
+          "hlasu": 449
+        },
+        {
+          "jmeno": "Tomáš",
+          "prijmeni": "Čermák",
+          "hlasu": 4271
+        },
+        {
+          "jmeno": "Justina",
+          "prijmeni": "Kamená",
+          "hlasu": 4507
+        },
+        {
+          "jmeno": "Lukáš",
+          "prijmeni": "Ženatý",
+          "hlasu": 5725
+        },
+        {
+          "jmeno": "Antonín",
+          "prijmeni": "Maštalíř",
+          "hlasu": 8561
+        },
+        {
+          "jmeno": "Aleš",
+          "prijmeni": "Dobrozemský",
+          "hlasu": 1101
+        },
+        {
+          "jmeno": "Zbyněk",
+          "prijmeni": "Pražák",
+          "hlasu": 1782
+        },
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Pavlíček",
+          "hlasu": 752
+        },
+        {
+          "jmeno": "Liana",
+          "prijmeni": "Janáčková",
+          "hlasu": 8922
+        }
+      ]
+    },
+    "73": {
+      "volicu": 97077,
+      "volilo": 43498,
+      "okrsky_celkem": 116,
+      "okrsky_spocteno": 116,
+      "kandidati": [
+        {
+          "jmeno": "Jan",
+          "prijmeni": "Szotkowski",
+          "hlasu": 1256
+        },
+        {
+          "jmeno": "Marian",
+          "prijmeni": "Kuś",
+          "hlasu": 1817
+        },
+        {
+          "jmeno": "Michael",
+          "prijmeni": "Trojka",
+          "hlasu": 2196
+        },
+        {
+          "jmeno": "Dagmar",
+          "prijmeni": "Adamová",
+          "hlasu": 5211
+        },
+        {
+          "jmeno": "Stanislav",
+          "prijmeni": "Czudek",
+          "hlasu": 10382
+        },
+        {
+          "jmeno": "Igor",
+          "prijmeni": "Petrov",
+          "hlasu": 4411
+        },
+        {
+          "jmeno": "Petr",
+          "prijmeni": "Gawlas",
+          "hlasu": 11127
+        },
+        {
+          "jmeno": "Miroslav",
+          "prijmeni": "Boublík",
+          "hlasu": 4221
+        }
+      ]
+    },
+    "76": {
+      "volicu": 96049,
+      "volilo": 44815,
+      "okrsky_celkem": 183,
+      "okrsky_spocteno": 183,
+      "kandidati": [
+        {
+          "jmeno": "Miloš",
+          "prijmeni": "Malý",
+          "hlasu": 10315
+        },
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Janalík",
+          "hlasu": 9586
+        },
+        {
+          "jmeno": "Jaroslav",
+          "prijmeni": "Adamík",
+          "hlasu": 4202
+        },
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Pánek",
+          "hlasu": 6472
+        },
+        {
+          "jmeno": "Ignác",
+          "prijmeni": "Hoza",
+          "hlasu": 1149
+        },
+        {
+          "jmeno": "Lenka",
+          "prijmeni": "Mergenthalová",
+          "hlasu": 4306
+        },
+        {
+          "jmeno": "Lubomír",
+          "prijmeni": "Nečas",
+          "hlasu": 729
+        },
+        {
+          "jmeno": "Pavel",
+          "prijmeni": "Dohnal",
+          "hlasu": 1738
+        },
+        {
+          "jmeno": "Zdeňka",
+          "prijmeni": "Dokoupilová",
+          "hlasu": 2684
+        }
+      ]
+    },
+    "79": {
+      "volicu": 106807,
+      "volilo": 50970,
+      "okrsky_celkem": 131,
+      "okrsky_spocteno": 131,
+      "kandidati": [
+        {
+          "jmeno": "Alena",
+          "prijmeni": "Venhodová",
+          "hlasu": 10380
+        },
+        {
+          "jmeno": "Rudolf",
+          "prijmeni": "Bauer",
+          "hlasu": 760
+        },
+        {
+          "jmeno": "Risto",
+          "prijmeni": "Ljasovský",
+          "hlasu": 3366
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Koliba",
+          "hlasu": 7166
+        },
+        {
+          "jmeno": "Zuzana",
+          "prijmeni": "Matušková",
+          "hlasu": 1524
+        },
+        {
+          "jmeno": "Jiří",
+          "prijmeni": "Brüch",
+          "hlasu": 1339
+        },
+        {
+          "jmeno": "Martina",
+          "prijmeni": "Milerová",
+          "hlasu": 4863
+        },
+        {
+          "jmeno": "Zdeněk",
+          "prijmeni": "Škromach",
+          "hlasu": 17476
+        }
+      ]
+    }
+  }
+}
