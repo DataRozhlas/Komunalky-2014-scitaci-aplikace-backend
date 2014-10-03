@@ -1,0 +1,1323 @@
+{
+  "volicu": 10216086,
+  "volilo": 4834126,
+  "hlasu": 90242385,
+  "okrsky_celkem": 16948,
+  "okrsky_spocteno": 16948,
+  "strany": [
+    {
+      "hlasu": 4938960,
+      "zastupitelu": 3738,
+      "nazev": "Křesťanská a demokratická unie - Československá strana lidová",
+      "id": 1
+    },
+    {
+      "hlasu": 15002,
+      "zastupitelu": 20,
+      "nazev": "Česká strana národně sociální",
+      "id": 2
+    },
+    {
+      "hlasu": 1491212,
+      "zastupitelu": 156,
+      "nazev": "Strana zelených",
+      "id": 5
+    },
+    {
+      "hlasu": 17763358,
+      "zastupitelu": 4584,
+      "nazev": "Česká strana sociálně demokratická",
+      "id": 7
+    },
+    {
+      "hlasu": 1992,
+      "zastupitelu": 0,
+      "nazev": "Sdružení pro republiku-Republikánská strana Československa",
+      "id": 11
+    },
+    {
+      "hlasu": 12333,
+      "zastupitelu": 5,
+      "nazev": "Konzervativní strana",
+      "id": 24
+    },
+    {
+      "hlasu": 5904,
+      "zastupitelu": 2,
+      "nazev": "Klub angažovaných nestraníků",
+      "id": 40
+    },
+    {
+      "hlasu": 8628685,
+      "zastupitelu": 3189,
+      "nazev": "Komunistická strana Čech a Moravy",
+      "id": 47
+    },
+    {
+      "hlasu": 16943967,
+      "zastupitelu": 5112,
+      "nazev": "Občanská demokratická strana",
+      "id": 53
+    },
+    {
+      "hlasu": 8695,
+      "zastupitelu": 0,
+      "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+      "id": 55
+    },
+    {
+      "hlasu": 5385,
+      "zastupitelu": 1,
+      "nazev": "Masarykova demokratická strana",
+      "id": 68
+    },
+    {
+      "hlasu": 30559,
+      "zastupitelu": 33,
+      "nazev": "COEXISTENTIA",
+      "id": 72
+    },
+    {
+      "hlasu": 2152,
+      "zastupitelu": 1,
+      "nazev": "Strana demokratického socialismu",
+      "id": 74
+    },
+    {
+      "hlasu": 6836,
+      "zastupitelu": 10,
+      "nazev": "Česká pravice",
+      "id": 77
+    },
+    {
+      "hlasu": 796763,
+      "zastupitelu": 6595,
+      "nazev": "Nezávislí kandidáti",
+      "id": 80
+    },
+    {
+      "hlasu": 72545,
+      "zastupitelu": 61,
+      "nazev": "Moravané",
+      "id": 83
+    },
+    {
+      "hlasu": 11620,
+      "zastupitelu": 2,
+      "nazev": "Iniciativa občanů",
+      "id": 86
+    },
+    {
+      "hlasu": 645217,
+      "zastupitelu": 227,
+      "nazev": "NEZÁVISLÍ",
+      "id": 88
+    },
+    {
+      "hlasu": 10848373,
+      "zastupitelu": 30597,
+      "nazev": "Sdružení nezávislých kandidátů - místní sdružení celkem",
+      "id": 90
+    },
+    {
+      "hlasu": 787,
+      "zastupitelu": 0,
+      "nazev": "Komunistická strana Československa",
+      "id": 93
+    },
+    {
+      "hlasu": 42853,
+      "zastupitelu": 2,
+      "nazev": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
+      "id": 98
+    },
+    {
+      "hlasu": 14255,
+      "zastupitelu": 11,
+      "nazev": "Strana venkova - spojené občanské síly",
+      "id": 101
+    },
+    {
+      "hlasu": 13186,
+      "zastupitelu": 5,
+      "nazev": "Unie svobody - Demokratická unie",
+      "id": 102
+    },
+    {
+      "hlasu": 64990,
+      "zastupitelu": 43,
+      "nazev": "Strana pro otevřenou společnost",
+      "id": 103
+    },
+    {
+      "hlasu": 86639,
+      "zastupitelu": 12,
+      "nazev": "Zlínské hnutí nezávislých",
+      "id": 109
+    },
+    {
+      "hlasu": 49527,
+      "zastupitelu": 3,
+      "nazev": "Demokratická regionální strana",
+      "id": 110
+    },
+    {
+      "hlasu": 197293,
+      "zastupitelu": 9,
+      "nazev": "Pravá volba pro Plzeň",
+      "id": 111
+    },
+    {
+      "hlasu": 119478,
+      "zastupitelu": 103,
+      "nazev": "HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST",
+      "id": 112
+    },
+    {
+      "hlasu": 736387,
+      "zastupitelu": 153,
+      "nazev": "Volba pro město",
+      "id": 113
+    },
+    {
+      "hlasu": 72172,
+      "zastupitelu": 4,
+      "nazev": "Hnutí pro Havířov",
+      "id": 114
+    },
+    {
+      "hlasu": 168190,
+      "zastupitelu": 31,
+      "nazev": "Unie pro sport a zdraví",
+      "id": 119
+    },
+    {
+      "hlasu": 1521,
+      "zastupitelu": 4,
+      "nazev": "České hnutí za národní jednotu",
+      "id": 123
+    },
+    {
+      "hlasu": 770543,
+      "zastupitelu": 551,
+      "nazev": "SNK Evropští demokraté",
+      "id": 129
+    },
+    {
+      "hlasu": 457,
+      "zastupitelu": 0,
+      "nazev": "Aktiv nezávislých občanů",
+      "id": 132
+    },
+    {
+      "hlasu": 59345,
+      "zastupitelu": 6,
+      "nazev": "Tábor 2020",
+      "id": 136
+    },
+    {
+      "hlasu": 673856,
+      "zastupitelu": 61,
+      "nazev": "Suverenita - Strana zdravého rozumu",
+      "id": 137
+    },
+    {
+      "hlasu": 907,
+      "zastupitelu": 0,
+      "nazev": "Balbínova poetická strana",
+      "id": 140
+    },
+    {
+      "hlasu": 207127,
+      "zastupitelu": 39,
+      "nazev": "Strana Zdraví Sportu Prosperity",
+      "id": 142
+    },
+    {
+      "hlasu": 9882,
+      "zastupitelu": 16,
+      "nazev": "Spojení demokraté - Sdružení nezávislých",
+      "id": 143
+    },
+    {
+      "hlasu": 2640305,
+      "zastupitelu": 304,
+      "nazev": "Věci veřejné",
+      "id": 144
+    },
+    {
+      "hlasu": 10609,
+      "zastupitelu": 3,
+      "nazev": "\"Jirkov 21.století\"",
+      "id": 145
+    },
+    {
+      "hlasu": 37812,
+      "zastupitelu": 11,
+      "nazev": "MĚSTO LIDEM",
+      "id": 147
+    },
+    {
+      "hlasu": 196849,
+      "zastupitelu": 0,
+      "nazev": "Dělnická strana sociální spravedlnosti",
+      "id": 156
+    },
+    {
+      "hlasu": 253634,
+      "zastupitelu": 243,
+      "nazev": "\"Sdružení nestraníků\"",
+      "id": 158
+    },
+    {
+      "hlasu": 23762,
+      "zastupitelu": 10,
+      "nazev": "Svobodná občanská samospráva",
+      "id": 161
+    },
+    {
+      "hlasu": 4340,
+      "zastupitelu": 2,
+      "nazev": "NEZÁVISLÁ VOLBA",
+      "id": 163
+    },
+    {
+      "hlasu": 19416,
+      "zastupitelu": 0,
+      "nazev": "Evropská strana důstojného stáří",
+      "id": 164
+    },
+    {
+      "hlasu": 653400,
+      "zastupitelu": 1243,
+      "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+      "id": 166
+    },
+    {
+      "hlasu": 27875,
+      "zastupitelu": 30,
+      "nazev": "Hnutí na podporu dobrovolných hasičů a dalších dobrovolníků",
+      "id": 167
+    },
+    {
+      "hlasu": 45780,
+      "zastupitelu": 28,
+      "nazev": "NEZÁVISLÍ DEMOKRATÉ",
+      "id": 172
+    },
+    {
+      "hlasu": 10312,
+      "zastupitelu": 11,
+      "nazev": "Česká strana národně socialistická",
+      "id": 175
+    },
+    {
+      "hlasu": 1390,
+      "zastupitelu": 0,
+      "nazev": "Zelení",
+      "id": 177
+    },
+    {
+      "hlasu": 3192,
+      "zastupitelu": 0,
+      "nazev": "4 VIZE - www.4vize.cz",
+      "id": 178
+    },
+    {
+      "hlasu": 6321,
+      "zastupitelu": 5,
+      "nazev": "Sedma - strana pro Slatiňany, Škrovád, Trpišov, Kunčí, Presy, Podhůru a Kochánovice",
+      "id": 179
+    },
+    {
+      "hlasu": 288047,
+      "zastupitelu": 163,
+      "nazev": "Nestraníci",
+      "id": 181
+    },
+    {
+      "hlasu": 98024,
+      "zastupitelu": 8,
+      "nazev": "Karlovarská občanská alternativa",
+      "id": 182
+    },
+    {
+      "hlasu": 23801,
+      "zastupitelu": 1,
+      "nazev": "Alternativa pro občany",
+      "id": 183
+    },
+    {
+      "hlasu": 17529,
+      "zastupitelu": 3,
+      "nazev": "Hnutí LEPŠÍ ŘEPY",
+      "id": 184
+    },
+    {
+      "hlasu": 6687,
+      "zastupitelu": 2,
+      "nazev": "SEMILÁCI",
+      "id": 188
+    },
+    {
+      "hlasu": 8602,
+      "zastupitelu": 6,
+      "nazev": "Mimoňská obroda",
+      "id": 190
+    },
+    {
+      "hlasu": 33177,
+      "zastupitelu": 3,
+      "nazev": "Volba pro Mladou Boleslav",
+      "id": 193
+    },
+    {
+      "hlasu": 10878,
+      "zastupitelu": 0,
+      "nazev": "ZVON",
+      "id": 194
+    },
+    {
+      "hlasu": 226861,
+      "zastupitelu": 9,
+      "nazev": "Hnutí pro Prahu 11",
+      "id": 195
+    },
+    {
+      "hlasu": 34707,
+      "zastupitelu": 3,
+      "nazev": "NESPOKOJENÍ OBČANÉ!",
+      "id": 197
+    },
+    {
+      "hlasu": 5873,
+      "zastupitelu": 5,
+      "nazev": "Demokracie",
+      "id": 200
+    },
+    {
+      "hlasu": 14639,
+      "zastupitelu": 29,
+      "nazev": "Koalice KDU-ČSL, ODS",
+      "id": 210
+    },
+    {
+      "hlasu": 3299,
+      "zastupitelu": 1,
+      "nazev": "Koalice SZ, ČSSD",
+      "id": 227
+    },
+    {
+      "hlasu": 244048,
+      "zastupitelu": 4,
+      "nazev": "Koalice SZ, SNK",
+      "id": 285
+    },
+    {
+      "hlasu": 29968,
+      "zastupitelu": 5,
+      "nazev": "Koalice KDU-ČSL, SZ",
+      "id": 303
+    },
+    {
+      "hlasu": 151602,
+      "zastupitelu": 63,
+      "nazev": "Koalice KDU-ČSL, Nestraníci",
+      "id": 339
+    },
+    {
+      "hlasu": 27029,
+      "zastupitelu": 4,
+      "nazev": "Koalice SZ, SN",
+      "id": 341
+    },
+    {
+      "hlasu": 141566,
+      "zastupitelu": 2,
+      "nazev": "Koalice SNK ED, KDU-ČSL",
+      "id": 343
+    },
+    {
+      "hlasu": 1313,
+      "zastupitelu": 2,
+      "nazev": "Sdružení KDU-ČSL, ODS, NK",
+      "id": 353
+    },
+    {
+      "hlasu": 275303,
+      "zastupitelu": 210,
+      "nazev": "Sdružení KDU-ČSL, NK",
+      "id": 355
+    },
+    {
+      "hlasu": 17774,
+      "zastupitelu": 6,
+      "nazev": "Sdružení ČSNS, NK",
+      "id": 361
+    },
+    {
+      "hlasu": 561724,
+      "zastupitelu": 89,
+      "nazev": "Sdružení SZ, NK",
+      "id": 364
+    },
+    {
+      "hlasu": 24270,
+      "zastupitelu": 2,
+      "nazev": "Sdružení SZ, SOS, NK",
+      "id": 367
+    },
+    {
+      "hlasu": 56831,
+      "zastupitelu": 105,
+      "nazev": "Sdružení ČSSD, NK",
+      "id": 371
+    },
+    {
+      "hlasu": 12819,
+      "zastupitelu": 9,
+      "nazev": "Sdružení KAN, NK",
+      "id": 382
+    },
+    {
+      "hlasu": 45255,
+      "zastupitelu": 97,
+      "nazev": "Sdružení KSČM, NK",
+      "id": 387
+    },
+    {
+      "hlasu": 79382,
+      "zastupitelu": 87,
+      "nazev": "Sdružení ODS, NK",
+      "id": 389
+    },
+    {
+      "hlasu": 67811,
+      "zastupitelu": 9,
+      "nazev": "Sdružení COEX, NK",
+      "id": 392
+    },
+    {
+      "hlasu": 7227,
+      "zastupitelu": 0,
+      "nazev": "Sdružení SDS, NK",
+      "id": 393
+    },
+    {
+      "hlasu": 55339,
+      "zastupitelu": 6,
+      "nazev": "Sdružení NEZ, NK",
+      "id": 401
+    },
+    {
+      "hlasu": 32857,
+      "zastupitelu": 13,
+      "nazev": "Sdružení US, NK",
+      "id": 405
+    },
+    {
+      "hlasu": 615819,
+      "zastupitelu": 54,
+      "nazev": "Sdružení SOS, NK",
+      "id": 407
+    },
+    {
+      "hlasu": 215476,
+      "zastupitelu": 53,
+      "nazev": "Sdružení VPM, NK",
+      "id": 411
+    },
+    {
+      "hlasu": 64477,
+      "zastupitelu": 15,
+      "nazev": "Sdružení US-DEU, NK",
+      "id": 413
+    },
+    {
+      "hlasu": 3793,
+      "zastupitelu": 7,
+      "nazev": "Sdružení KONS, NK",
+      "id": 415
+    },
+    {
+      "hlasu": 63879,
+      "zastupitelu": 21,
+      "nazev": "Sdružení SNK, NK",
+      "id": 419
+    },
+    {
+      "hlasu": 190238,
+      "zastupitelu": 25,
+      "nazev": "Sdružení SD-SN, NK",
+      "id": 427
+    },
+    {
+      "hlasu": 587477,
+      "zastupitelu": 163,
+      "nazev": "Sdružení SNK ED, NK",
+      "id": 449
+    },
+    {
+      "hlasu": 6380,
+      "zastupitelu": 0,
+      "nazev": "Sdružení \"LiRA\", NK",
+      "id": 450
+    },
+    {
+      "hlasu": 4941,
+      "zastupitelu": 3,
+      "nazev": "Sdružení SvOS, NK",
+      "id": 451
+    },
+    {
+      "hlasu": 544,
+      "zastupitelu": 0,
+      "nazev": "Sdružení ČSNS2005, NK",
+      "id": 453
+    },
+    {
+      "hlasu": 3983,
+      "zastupitelu": 0,
+      "nazev": "Sdružení NEZ/DEM, NK",
+      "id": 454
+    },
+    {
+      "hlasu": 5024,
+      "zastupitelu": 1,
+      "nazev": "Sdružení HNHRM, NK",
+      "id": 456
+    },
+    {
+      "hlasu": 39610,
+      "zastupitelu": 15,
+      "nazev": "Sdružení Nestraníci, NK",
+      "id": 457
+    },
+    {
+      "hlasu": 4050,
+      "zastupitelu": 4,
+      "nazev": "Sdružení SZ, US-DEU, NK",
+      "id": 459
+    },
+    {
+      "hlasu": 102370,
+      "zastupitelu": 35,
+      "nazev": "Sdružení NV, NK",
+      "id": 461
+    },
+    {
+      "hlasu": 68141,
+      "zastupitelu": 13,
+      "nazev": "Sdružení SN, NK",
+      "id": 463
+    },
+    {
+      "hlasu": 2687,
+      "zastupitelu": 0,
+      "nazev": "Sdružení M, NK",
+      "id": 464
+    },
+    {
+      "hlasu": 3836,
+      "zastupitelu": 3,
+      "nazev": "Sdružení SNK ED, SZ, NK",
+      "id": 466
+    },
+    {
+      "hlasu": 837104,
+      "zastupitelu": 1097,
+      "nazev": "Sdružení \"STAN\", NK",
+      "id": 470
+    },
+    {
+      "hlasu": 2518,
+      "zastupitelu": 2,
+      "nazev": "Sdružení ZHN, NK",
+      "id": 471
+    },
+    {
+      "hlasu": 68493,
+      "zastupitelu": 64,
+      "nazev": "Sdružení SLK, NK",
+      "id": 475
+    },
+    {
+      "hlasu": 261968,
+      "zastupitelu": 45,
+      "nazev": "Sdružení ALTERNATIVA, NK",
+      "id": 476
+    },
+    {
+      "hlasu": 72598,
+      "zastupitelu": 13,
+      "nazev": "Sdružení Svobodní, NK",
+      "id": 477
+    },
+    {
+      "hlasu": 45461,
+      "zastupitelu": 16,
+      "nazev": "Sdružení Nový Impuls, NK",
+      "id": 478
+    },
+    {
+      "hlasu": 67502,
+      "zastupitelu": 13,
+      "nazev": "Sdružení KDU-ČSL, SZ, NK",
+      "id": 479
+    },
+    {
+      "hlasu": 316730,
+      "zastupitelu": 140,
+      "nazev": "Sdružení TOP 09, NK",
+      "id": 480
+    },
+    {
+      "hlasu": 17234,
+      "zastupitelu": 4,
+      "nazev": "Sdružení Klíčové hnutí, NK",
+      "id": 481
+    },
+    {
+      "hlasu": 14441,
+      "zastupitelu": 3,
+      "nazev": "Sdružení DSZ, NK",
+      "id": 482
+    },
+    {
+      "hlasu": 5464,
+      "zastupitelu": 1,
+      "nazev": "Sdružení SPOZ, NK",
+      "id": 483
+    },
+    {
+      "hlasu": 3788,
+      "zastupitelu": 1,
+      "nazev": "Sdružení SZ, VV, NK",
+      "id": 484
+    },
+    {
+      "hlasu": 251179,
+      "zastupitelu": 9,
+      "nazev": "Sdružení SZ, ALTERNATIVA, Klíčové hnutí, Zelení, NK",
+      "id": 485
+    },
+    {
+      "hlasu": 23488,
+      "zastupitelu": 4,
+      "nazev": "Sdružení KDU-ČSL, SNK ED, NK",
+      "id": 486
+    },
+    {
+      "hlasu": 13236,
+      "zastupitelu": 3,
+      "nazev": "Sdružení SZ, US-DEU, \"STAN\", TOP 09, NK",
+      "id": 487
+    },
+    {
+      "hlasu": 18202,
+      "zastupitelu": 3,
+      "nazev": "Sdružení Věci veřejné, NK",
+      "id": 488
+    },
+    {
+      "hlasu": 3971,
+      "zastupitelu": 0,
+      "nazev": "Sdružení Strana Práv Občanů ZEMANOVCI, Strana zelených, NK",
+      "id": 489
+    },
+    {
+      "hlasu": 180562,
+      "zastupitelu": 6,
+      "nazev": "Sdružení ALTER., KČ, SOS, SNK ED, US-DEU, NK",
+      "id": 490
+    },
+    {
+      "hlasu": 422891,
+      "zastupitelu": 26,
+      "nazev": "Sdružení Severočeši.cz, NK",
+      "id": 492
+    },
+    {
+      "hlasu": 21731,
+      "zastupitelu": 4,
+      "nazev": "Sdružení Suverenita, NK",
+      "id": 493
+    },
+    {
+      "hlasu": 12281,
+      "zastupitelu": 2,
+      "nazev": "Sdružení KDU-ČSL, US-DEU, SNK ED, NK",
+      "id": 494
+    },
+    {
+      "hlasu": 7279,
+      "zastupitelu": 5,
+      "nazev": "Sdružení TOP 09, \"STAN\", NK",
+      "id": 495
+    },
+    {
+      "hlasu": 333958,
+      "zastupitelu": 15,
+      "nazev": "Sdružení \"HOPB\", \"STAN\", NK",
+      "id": 496
+    },
+    {
+      "hlasu": 7259,
+      "zastupitelu": 1,
+      "nazev": "Sdružení SsČR, NK",
+      "id": 497
+    },
+    {
+      "hlasu": 10462,
+      "zastupitelu": 5,
+      "nazev": "Sdružení SNK ED, SsČR, TOP 09, NK",
+      "id": 498
+    },
+    {
+      "hlasu": 163246,
+      "zastupitelu": 6,
+      "nazev": "Sdružení SLK, KDU-ČSL, NK",
+      "id": 499
+    },
+    {
+      "hlasu": 1810,
+      "zastupitelu": 1,
+      "nazev": "Sdružení KSČM, FiS, NK",
+      "id": 500
+    },
+    {
+      "hlasu": 1191,
+      "zastupitelu": 1,
+      "nazev": "Sdružení TOP 09, SZ, NK",
+      "id": 501
+    },
+    {
+      "hlasu": 18066,
+      "zastupitelu": 2,
+      "nazev": "Sdružení US-DEU, TOP 09, NK",
+      "id": 502
+    },
+    {
+      "hlasu": 1910,
+      "zastupitelu": 15,
+      "nazev": "Sdružení S.cz, \"STAN\", NK",
+      "id": 503
+    },
+    {
+      "hlasu": 12395,
+      "zastupitelu": 0,
+      "nazev": "Sdružení FiS, NK",
+      "id": 504
+    },
+    {
+      "hlasu": 41926,
+      "zastupitelu": 0,
+      "nazev": "Sdružení KDU-ČSL, Nestran., NK",
+      "id": 505
+    },
+    {
+      "hlasu": 2501,
+      "zastupitelu": 6,
+      "nazev": "Sdružení PVP, NK",
+      "id": 506
+    },
+    {
+      "hlasu": 12233,
+      "zastupitelu": 2,
+      "nazev": "Sdružení VV, VPM, NK",
+      "id": 507
+    },
+    {
+      "hlasu": 8268,
+      "zastupitelu": 2,
+      "nazev": "Koalice VPM, US-DEU",
+      "id": 606
+    },
+    {
+      "hlasu": 149218,
+      "zastupitelu": 4,
+      "nazev": "Koalice Suveren. a NEZ/DEM",
+      "id": 657
+    },
+    {
+      "hlasu": 46006,
+      "zastupitelu": 0,
+      "nazev": "Koalice SOS A ZELENÍ",
+      "id": 658
+    },
+    {
+      "hlasu": 301853,
+      "zastupitelu": 24,
+      "nazev": "Koalice \"STAN\" a TOP 09",
+      "id": 659
+    },
+    {
+      "hlasu": 11963,
+      "zastupitelu": 4,
+      "nazev": "Koalice TOP 09 a SLK",
+      "id": 660
+    },
+    {
+      "hlasu": 5542,
+      "zastupitelu": 2,
+      "nazev": "Koalice SPOZ a SZ",
+      "id": 661
+    },
+    {
+      "hlasu": 18067,
+      "zastupitelu": 4,
+      "nazev": "Koalice SNK ED a VV",
+      "id": 663
+    },
+    {
+      "hlasu": 4021,
+      "zastupitelu": 1,
+      "nazev": "Koalice VPM a VV",
+      "id": 664
+    },
+    {
+      "hlasu": 28479,
+      "zastupitelu": 2,
+      "nazev": "Koalice SDŽ a Pražané za svá práva",
+      "id": 666
+    },
+    {
+      "hlasu": 107024,
+      "zastupitelu": 6,
+      "nazev": "Koalice KDU-ČSL, SZ, KONS, KAN, Suveren., ČPS",
+      "id": 667
+    },
+    {
+      "hlasu": 10907,
+      "zastupitelu": 3,
+      "nazev": "Koalice KDU-ČSL a HNHRM",
+      "id": 668
+    },
+    {
+      "hlasu": 24147,
+      "zastupitelu": 0,
+      "nazev": "Koalice SZ, Suveren. a SPOZ",
+      "id": 669
+    },
+    {
+      "hlasu": 70198,
+      "zastupitelu": 6,
+      "nazev": "Koalice VV, SZ a NV",
+      "id": 670
+    },
+    {
+      "hlasu": 21846,
+      "zastupitelu": 0,
+      "nazev": "Koalice DSZ a SPOZ",
+      "id": 671
+    },
+    {
+      "hlasu": 37846,
+      "zastupitelu": 11,
+      "nazev": "Koalice VPM a \"STAN\"",
+      "id": 672
+    },
+    {
+      "hlasu": 4552,
+      "zastupitelu": 5,
+      "nazev": "Koalice DRS, TOP 09 a Věci veřejné",
+      "id": 673
+    },
+    {
+      "hlasu": 11692,
+      "zastupitelu": 6,
+      "nazev": "Koalice TOP 09 a Věci veřejné",
+      "id": 674
+    },
+    {
+      "hlasu": 3708,
+      "zastupitelu": 1,
+      "nazev": "Koalice KDU-ČSL, SZ, NEZ a US-DEU",
+      "id": 676
+    },
+    {
+      "hlasu": 36483,
+      "zastupitelu": 0,
+      "nazev": "Koalice Moravané a ČSNS2005",
+      "id": 677
+    },
+    {
+      "hlasu": 91668,
+      "zastupitelu": 4,
+      "nazev": "Koalice Suveren. a SPOZ",
+      "id": 679
+    },
+    {
+      "hlasu": 7974,
+      "zastupitelu": 0,
+      "nazev": "Koalice HpT a SZ",
+      "id": 680
+    },
+    {
+      "hlasu": 5737,
+      "zastupitelu": 0,
+      "nazev": "Koalice NEZÁVISLÍ a SPOZ",
+      "id": 681
+    },
+    {
+      "hlasu": 6752,
+      "zastupitelu": 4,
+      "nazev": "Koalice ČSSD a SPOZ",
+      "id": 682
+    },
+    {
+      "hlasu": 10542,
+      "zastupitelu": 0,
+      "nazev": "Koalice KDU-ČSL, Suveren. a ČPS",
+      "id": 683
+    },
+    {
+      "hlasu": 15493,
+      "zastupitelu": 0,
+      "nazev": "Koalice Svobodní a ČPS",
+      "id": 684
+    },
+    {
+      "hlasu": 20423,
+      "zastupitelu": 4,
+      "nazev": "Koalice KONS, SZ a US-DEU",
+      "id": 685
+    },
+    {
+      "hlasu": 2333,
+      "zastupitelu": 2,
+      "nazev": "Koalice HNHRM a TOP 09",
+      "id": 686
+    },
+    {
+      "hlasu": 2347,
+      "zastupitelu": 5,
+      "nazev": "Koalice TOP 09 a ODS",
+      "id": 687
+    },
+    {
+      "hlasu": 6167,
+      "zastupitelu": 2,
+      "nazev": "Koalice KDU-ČSL a EDS",
+      "id": 688
+    },
+    {
+      "hlasu": 6157,
+      "zastupitelu": 7,
+      "nazev": "Koalice Suveren. a DSZ",
+      "id": 689
+    },
+    {
+      "hlasu": 1293,
+      "zastupitelu": 0,
+      "nazev": "Koalice KDU-ČSL a Zelení",
+      "id": 690
+    },
+    {
+      "hlasu": 6795,
+      "zastupitelu": 0,
+      "nazev": "Koalice SNK ED a Suveren.",
+      "id": 691
+    },
+    {
+      "hlasu": 11168,
+      "zastupitelu": 0,
+      "nazev": "Koalice SONOB, SOSPRAHA a Občané",
+      "id": 692
+    },
+    {
+      "hlasu": 14523,
+      "zastupitelu": 0,
+      "nazev": "Koalice Moravané a Suveren.",
+      "id": 693
+    },
+    {
+      "hlasu": 6585,
+      "zastupitelu": 0,
+      "nazev": "Koalice KDU-ČSL a SN",
+      "id": 694
+    },
+    {
+      "hlasu": 16972,
+      "zastupitelu": 0,
+      "nazev": "Doktoři (za uzdravení společnosti)",
+      "id": 701
+    },
+    {
+      "hlasu": 25135,
+      "zastupitelu": 3,
+      "nazev": "ALTERNATIVA",
+      "id": 702
+    },
+    {
+      "hlasu": 72375,
+      "zastupitelu": 74,
+      "nazev": "Starostové pro Liberecký kraj",
+      "id": 703
+    },
+    {
+      "hlasu": 191581,
+      "zastupitelu": 51,
+      "nazev": "Severočeši.cz",
+      "id": 704
+    },
+    {
+      "hlasu": 2547,
+      "zastupitelu": 0,
+      "nazev": "Strana podnikatelů a živnostníků",
+      "id": 705
+    },
+    {
+      "hlasu": 9010,
+      "zastupitelu": 0,
+      "nazev": "Strana pro ekologii a zdraví",
+      "id": 708
+    },
+    {
+      "hlasu": 2820,
+      "zastupitelu": 0,
+      "nazev": "Evropská demokratická strana",
+      "id": 709
+    },
+    {
+      "hlasu": 2875,
+      "zastupitelu": 0,
+      "nazev": "Liga spořádaných lidí",
+      "id": 710
+    },
+    {
+      "hlasu": 129,
+      "zastupitelu": 0,
+      "nazev": "\"Mírové hnutí 2007\"",
+      "id": 712
+    },
+    {
+      "hlasu": 196475,
+      "zastupitelu": 29,
+      "nazev": "Strana svobodných občanů",
+      "id": 714
+    },
+    {
+      "hlasu": 20834,
+      "zastupitelu": 0,
+      "nazev": "Demokratická strana zelených",
+      "id": 715
+    },
+    {
+      "hlasu": 48166,
+      "zastupitelu": 10,
+      "nazev": "Strana soukromníků České republiky",
+      "id": 716
+    },
+    {
+      "hlasu": 4351,
+      "zastupitelu": 3,
+      "nazev": "ČESKÝ POLITICKÝ STŘED",
+      "id": 717
+    },
+    {
+      "hlasu": 259356,
+      "zastupitelu": 13,
+      "nazev": "OBČANÉ.CZ",
+      "id": 718
+    },
+    {
+      "hlasu": 175871,
+      "zastupitelu": 3,
+      "nazev": "Česká pirátská strana",
+      "id": 720
+    },
+    {
+      "hlasu": 8537461,
+      "zastupitelu": 1509,
+      "nazev": "TOP 09",
+      "id": 721
+    },
+    {
+      "hlasu": 628860,
+      "zastupitelu": 89,
+      "nazev": "Strana Práv Občanů ZEMANOVCI",
+      "id": 724
+    },
+    {
+      "hlasu": 18592,
+      "zastupitelu": 0,
+      "nazev": "Victoria.cz",
+      "id": 725
+    },
+    {
+      "hlasu": 113768,
+      "zastupitelu": 6,
+      "nazev": "VOLBA PRO KLADNO",
+      "id": 727
+    },
+    {
+      "hlasu": 34074,
+      "zastupitelu": 3,
+      "nazev": "Pro Třebíč",
+      "id": 728
+    },
+    {
+      "hlasu": 2884,
+      "zastupitelu": 0,
+      "nazev": "POLITIKA TRADIČNÍCH HODNOT",
+      "id": 729
+    },
+    {
+      "hlasu": 12279,
+      "zastupitelu": 1,
+      "nazev": "Ženy za Brod",
+      "id": 731
+    },
+    {
+      "hlasu": 22288,
+      "zastupitelu": 6,
+      "nazev": "NÁŠ HLUČÍN",
+      "id": 732
+    },
+    {
+      "hlasu": 26538,
+      "zastupitelu": 5,
+      "nazev": "\"Volím Orlovou\"",
+      "id": 733
+    },
+    {
+      "hlasu": 55169,
+      "zastupitelu": 9,
+      "nazev": "\"Občané městu, město občanům\"",
+      "id": 734
+    },
+    {
+      "hlasu": 22479,
+      "zastupitelu": 6,
+      "nazev": "Nezávislí pro Bílinu",
+      "id": 735
+    },
+    {
+      "hlasu": 5227,
+      "zastupitelu": 0,
+      "nazev": "REPUBLIKÁNSKÁ STRANA ČECH, MORAVY A SLEZSKA",
+      "id": 736
+    },
+    {
+      "hlasu": 21213,
+      "zastupitelu": 20,
+      "nazev": "ČESKÁ NEZÁVISLÁ",
+      "id": 737
+    },
+    {
+      "hlasu": 5524,
+      "zastupitelu": 3,
+      "nazev": "JUNDROV ŽÁDÁ NOVÉ TVÁŘE",
+      "id": 738
+    },
+    {
+      "hlasu": 22519,
+      "zastupitelu": 2,
+      "nazev": "Královopolští patrioti",
+      "id": 739
+    },
+    {
+      "hlasu": 2032,
+      "zastupitelu": 0,
+      "nazev": "Strana demokratické obnovy",
+      "id": 740
+    },
+    {
+      "hlasu": 7055,
+      "zastupitelu": 3,
+      "nazev": "Hnutí nezávislých za všestranný rozvoj Slatiny",
+      "id": 741
+    },
+    {
+      "hlasu": 10998,
+      "zastupitelu": 2,
+      "nazev": "Strakonická Veřejnost",
+      "id": 742
+    },
+    {
+      "hlasu": 41078,
+      "zastupitelu": 3,
+      "nazev": "Hnutí O co jim jde?!",
+      "id": 743
+    },
+    {
+      "hlasu": 78199,
+      "zastupitelu": 2,
+      "nazev": "Pražané za svá práva",
+      "id": 744
+    },
+    {
+      "hlasu": 18444,
+      "zastupitelu": 5,
+      "nazev": "Bílinští sociální demokraté",
+      "id": 745
+    },
+    {
+      "hlasu": 18678,
+      "zastupitelu": 3,
+      "nazev": "B10.cz",
+      "id": 747
+    },
+    {
+      "hlasu": 10118,
+      "zastupitelu": 0,
+      "nazev": "Společnost pro Třinec",
+      "id": 748
+    },
+    {
+      "hlasu": 52369,
+      "zastupitelu": 0,
+      "nazev": "Nezávislí občané Prahy",
+      "id": 749
+    },
+    {
+      "hlasu": 24136,
+      "zastupitelu": 3,
+      "nazev": "Desítka pro domácí",
+      "id": 750
+    },
+    {
+      "hlasu": 1873,
+      "zastupitelu": 0,
+      "nazev": "VLASTENECKÁ STRANA",
+      "id": 751
+    },
+    {
+      "hlasu": 21529,
+      "zastupitelu": 3,
+      "nazev": "Zdravé Hradiště",
+      "id": 752
+    },
+    {
+      "hlasu": 1020,
+      "zastupitelu": 0,
+      "nazev": "Občanské hnutí pro Mimoň",
+      "id": 754
+    },
+    {
+      "hlasu": 774985,
+      "zastupitelu": 20,
+      "nazev": "Ostravak",
+      "id": 755
+    },
+    {
+      "hlasu": 152686,
+      "zastupitelu": 17,
+      "nazev": "Česká strana regionů",
+      "id": 756
+    },
+    {
+      "hlasu": 10682,
+      "zastupitelu": 2,
+      "nazev": "Sdružení nezávislých Holešovska",
+      "id": 757
+    },
+    {
+      "hlasu": 25359,
+      "zastupitelu": 12,
+      "nazev": "Naše Beskydy",
+      "id": 758
+    }
+  ]
+}
