@@ -10,6 +10,7 @@ require! {
   "./Obce/CouncilToMunicipality"
   "./Obce/MunicipalityCombiner"
   "./Obce/MunicipalityRedisNotifier"
+  "./Obce/ObceResultParser"
 
   "./Senat/SenatParser"
 
@@ -33,6 +34,17 @@ downloader = new VolbyDownloader config.downloader
 uploader = new Uploader config.azure
 downloader
   ..start!
+  ..on \komunalky-vysledky (xml, data, index) ->
+    results = ObceResultParser.parse xml
+    (err, isUpdated) <~ ResultsUpdateDetector.isUpdated redisClient, "obce", results
+    if not isUpdated
+      console.log "Obce not updated"
+      return
+    console.log "Obce updated"
+    <~ uploader.upload "obce", results
+    ResultsNotifier.update redisClient, "obce", results
+    ResultsNotifier.notify redisClient, "obce"
+
   ..on \senat-vysledky (xml, data, index) ->
     results = SenatParser.parse config.senat, xml
     (err, isUpdated) <~ ResultsUpdateDetector.isUpdated redisClient, "senat", results
