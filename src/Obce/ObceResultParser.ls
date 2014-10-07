@@ -8,8 +8,8 @@ module.exports.parse = (xml) ->
   out.okrsky_celkem   = (parseInt ucast1.$.OKRSKY_CELKEM,  10) + (parseInt ucast2.$.OKRSKY_CELKEM,  10)
   out.okrsky_spocteno = (parseInt ucast1.$.OKRSKY_ZPRAC,   10) + (parseInt ucast2.$.OKRSKY_ZPRAC,   10)
   strany_assoc = {}
-  xml.VYSLEDKY.TYP_ZASTUP.0.VOLEBNI_STRANA ?+ []
-  xml.VYSLEDKY.TYP_ZASTUP.1.VOLEBNI_STRANA ?+ []
+  xml.VYSLEDKY.TYP_ZASTUP.0.VOLEBNI_STRANA ?= []
+  xml.VYSLEDKY.TYP_ZASTUP.1.VOLEBNI_STRANA ?= []
   all = xml.VYSLEDKY.TYP_ZASTUP.0.VOLEBNI_STRANA ++ xml.VYSLEDKY.TYP_ZASTUP.1.VOLEBNI_STRANA
   all.forEach (data) ->
     strany_assoc[data.$.VSTRANA] ?=
