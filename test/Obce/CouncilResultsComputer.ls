@@ -26,6 +26,7 @@ describe 'CouncilResultsComputer' (_) ->
     expect councils.0.obvody.0 .to.have.property \strany
     expect councils.0.obvody.0.strany .to.have.length 17
     expect councils.0.obvody.0.strany.0 .to.have.property \id 7
+    expect councils.0.obvody.0.strany.0 .to.have.property \nazev "Česká strana sociálně demokratická"
     expect councils.0.obvody.0.strany.0 .to.have.property \zastupitelu 2
 
     expect councils.1.obvody .to.have.length 1

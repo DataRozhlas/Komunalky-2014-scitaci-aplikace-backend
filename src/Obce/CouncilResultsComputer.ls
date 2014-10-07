@@ -23,6 +23,7 @@ module.exports.computeCouncilResults = (xml) ->
           obvodOut.strany = obvod.VYSLEDEK.0.VOLEBNI_STRANA.map (strana) ->
             stranaOut =
               id: parseInt strana.$.VSTRANA
+              nazev: strana.$.NAZEV_STRANY
               hlasu: parseInt strana.$.HLASY, 10
             if strana.ZASTUPITEL?length
               stranaOut.zastupitele = strana.ZASTUPITEL.map ({$})->
