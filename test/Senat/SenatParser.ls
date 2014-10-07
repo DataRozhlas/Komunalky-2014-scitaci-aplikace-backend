@@ -34,8 +34,7 @@ describe 'SenatParser' (_) ->
     expect obvody["1"] .to.have.property \okrsky_spocteno 137
     kandidati = obvody["1"].kandidati
     expect kandidati .to.have.length 10
-    expect kandidati.0 .to.have.property \jmeno \Věra
-    expect kandidati.0 .to.have.property \prijmeni \Procházková
+    expect kandidati.0 .to.have.property \id 1
     expect kandidati.0 .to.have.property \hlasu 1746
 
   # it '-- save data --' (done) ->

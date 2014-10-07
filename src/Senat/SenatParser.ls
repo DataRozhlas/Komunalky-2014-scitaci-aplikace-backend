@@ -10,9 +10,8 @@ module.exports.parse = (config, xml) ->
       out.obvody[obvod.$.CISLO] = obvOut = {}
       injectStats obvOut, obvod, koloStr
       obvOut.kandidati = obvod.KANDIDAT.map (kandidat) ->
-        jmeno: kandidat.$.JMENO
-        prijmeni: kandidat.$.PRIJMENI
-        hlasu: parseInt kandidat.$.["HLASY_#{koloStr}KOLO"]
+        id: parseInt kandidat.$.PORADOVE_CISLO, 10
+        hlasu: parseInt kandidat.$.["HLASY_#{koloStr}KOLO"], 10
     out
   catch e
     console.error "Trouble parsing Senat XML" e
