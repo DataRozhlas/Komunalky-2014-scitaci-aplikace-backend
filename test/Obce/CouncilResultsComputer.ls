@@ -47,6 +47,10 @@ describe 'CouncilResultsComputer' (_) ->
     expect councils.0.obvody.0.strany.0 .to.have.property \zastupitele
     expect councils.0.obvody.0.strany.0.zastupitele .to.have.length 2
     expect councils.0.obvody.0.strany.0.zastupitele.0 .to.have.property \prijmeni \Dienstbier
+    for council in councils
+      for obvod, index in council.obvody
+        for strana in obvod.strany
+          expect (strana.zastupitele?length || 0) .to.equal strana.zastupitelu
     # fs.writeFileSync do
     #   "#__dirname/data/computeCouncilResults.json"
     #   JSON.stringify councils, 1, 2

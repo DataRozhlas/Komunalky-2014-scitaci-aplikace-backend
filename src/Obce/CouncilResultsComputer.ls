@@ -20,19 +20,24 @@ module.exports.computeCouncilResults = (xml) ->
           obvodOut.volilo          = parseInt obvod.VYSLEDEK.0.UCAST.0.$.ODEVZDANE_OBALKY, 10
           obvodOut.okrsky_celkem   = parseInt obvod.VYSLEDEK.0.UCAST.0.$.OKRSKY_CELKEM,    10
           obvodOut.okrsky_spocteno = parseInt obvod.VYSLEDEK.0.UCAST.0.$.OKRSKY_ZPRAC,     10
+          obvodOut.hlasu           = parseInt obvod.VYSLEDEK.0.UCAST.0.$.PLATNE_HLASY,     10
+          quora = []
           obvodOut.strany = obvod.VYSLEDEK.0.VOLEBNI_STRANA.map (strana) ->
             stranaOut =
               id: parseInt strana.$.VSTRANA
               nazev: strana.$.NAZEV_STRANY
               hlasu: parseInt strana.$.HLASY, 10
+              zastupitelu: 0
+            quora.push obvodOut.hlasu * 0.05 / obvodOut.voleno * (parseInt strana.$.KANDIDATU_POCET, 10)
             if strana.ZASTUPITEL?length
               stranaOut.zastupitele = strana.ZASTUPITEL.map ({$})->
                 jmeno: $.JMENO
                 prijmeni: $.PRIJMENI
                 hlasu: parseInt $.HLASY, 10
             stranaOut
+
           dhondt.compute do
-            * obvodOut.strany
+            * obvodOut.strany.filter (d, i) -> d.hlasu >= quora[i]
             * obvodOut.voleno
             * voteAccessor   : (.hlasu)
               resultProperty : "zastupitelu"
