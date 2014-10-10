@@ -35,11 +35,11 @@ module.exports.computeCouncilResults = (xml) ->
                 prijmeni: $.PRIJMENI
                 hlasu: parseInt $.HLASY, 10
             stranaOut
-
-          dhondt.compute do
-            * obvodOut.strany.filter (d, i) -> d.hlasu >= quora[i]
-            * obvodOut.voleno
-            * voteAccessor   : (.hlasu)
-              resultProperty : "zastupitelu"
+          try
+            dhondt.compute do
+              * obvodOut.strany.filter (d, i) -> d.hlasu >= quora[i]
+              * obvodOut.voleno
+              * voteAccessor   : (.hlasu)
+                resultProperty : "zastupitelu"
           obvodOut
     obecOut

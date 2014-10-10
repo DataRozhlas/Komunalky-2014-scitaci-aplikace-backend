@@ -1,6 +1,7 @@
 require! {
   "./VolbyDownloader"
   "./DownloadSimulator"
+  "./UploadSimulator"
   "./config"
   redis
   http
@@ -23,15 +24,16 @@ http.globalAgent.maxSockets = 100
 console.log "Starting"
 redisClient = redis.createClient config.redis.port, config.redis.host
 (err) <~ redisClient.auth config.redis.key
-# <~ redisClient.flushdb!
+<~ redisClient.flushdb!
 if err
   console.error err
   process.exit!
 console.log "Redis connected & authenticated"
 municipalityCombiner = new MunicipalityCombiner redisClient
 downloader = new VolbyDownloader config.downloader
-# downloader = new DownloadSimulator
 uploader = new Uploader config.azure
+downloader = new DownloadSimulator
+uploader = new UploadSimulator
 downloader
   ..start!
   ..on \komunalky-vysledky (xml, data, index) ->

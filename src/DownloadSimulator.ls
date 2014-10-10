@@ -7,7 +7,7 @@ require! {
 
 module.exports = class DownloadSimulator extends EventEmitter
   ->
-    @currentOffset = 0
+    @currentOffset = 1873
     @interval = 100
     (err, files) <~ fs.readdir "#__dirname/../data/output"
     files .= filter -> it[0] != '.'
