@@ -32,8 +32,8 @@ console.log "Redis connected & authenticated"
 municipalityCombiner = new MunicipalityCombiner redisClient
 downloader = new VolbyDownloader config.downloader
 uploader = new Uploader config.azure
-downloader = new DownloadSimulator
-uploader = new UploadSimulator
+# downloader = new DownloadSimulator
+# uploader = new UploadSimulator
 downloader
   ..start!
   ..on \komunalky-vysledky (xml, data, index) ->
