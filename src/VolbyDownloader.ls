@@ -13,17 +13,17 @@ module.exports = class VolbyDowloader extends EventEmitter
   minimumInterval: 10
   (@config) ->
     @sources =
-      * url: "#{@config.addr.komunalky}/vysledky?datumvoleb=#{@config.datum_voleb}"
+      * url: "#{@config.addr.komunalky}/vysledky"
         interval: 60
         type: \komunalky-vysledky
         short: \komunalky-vysledky
-      * url: "#{@config.addr.senat}/vysledky?datum_voleb=#{@config.datum_voleb}"
+      * url: "#{@config.addr.senat}/vysledky"
         interval: 60
         type: \senat-vysledky
         short: \senat-vysledky
     okresy.forEach ~>
       @sources.push do
-        url: "#{@config.addr.komunalky}/vysledky_obce_okres?datumvoleb=#{@config.datum_voleb}&nuts=#{it}"
+        url: "#{@config.addr.komunalky}/vysledky_obce_okres?nuts=#{it}"
         interval: 60
         type: \komunalky-obec
         short: "komunalky-obec-#{it}"
