@@ -24,7 +24,7 @@ http.globalAgent.maxSockets = 100
 console.log "Starting"
 redisClient = redis.createClient config.redis.port, config.redis.host
 (err) <~ redisClient.auth config.redis.key
-<~ redisClient.flushdb!
+# <~ redisClient.flushdb!
 if err
   console.error err
   process.exit!
