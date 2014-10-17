@@ -12,6 +12,7 @@ module.exports.parse = (config, xml) ->
       obvOut.kandidati = obvod.KANDIDAT.map (kandidat) ->
         id: parseInt kandidat.$.PORADOVE_CISLO, 10
         hlasu: parseInt kandidat.$.["HLASY_#{koloStr}KOLO"], 10
+      obvOut.kandidati .= filter -> ! isNaN it.hlasu
     out
   catch e
     console.error "Trouble parsing Senat XML" e

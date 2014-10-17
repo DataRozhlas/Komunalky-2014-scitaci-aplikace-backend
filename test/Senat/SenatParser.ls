@@ -43,5 +43,6 @@ describe 'SenatParser' (_) ->
 
   it 'should get correct values for 2nd round' ->
     out := SenatParser.parse kolo: 2, xml
+    expect out.obvody['1'].kandidati .to.have.length 2
     expect out .to.have.property \volicu 2774982
     expect out .to.have.property \volilo 683705
